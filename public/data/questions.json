@@ -1,0 +1,2746 @@
+[
+    {
+        "id": 1,
+        "q": "Medzi výhody hypervodičov oproti supravodičom nepatrí:",
+        "a": "nižšie náklady na prevádzku",
+        "b": "vyššia pracovná teplota",
+        "c": "možnosť dosiahnutia hypervodivosti aj pôsobením tlaku",
+        "correct": "c"
+    },
+    {
+        "id": 2,
+        "q": "Fermiho energia pre kovy je",
+        "a": "energia najvyššej hladiny, na ktorej sa nachádza atóm",
+        "b": "energia najvyššej hladiny, na ktorej sa nachádza elektrón pri nulovej absolútnej teplote.",
+        "c": "energia najvyššej hladiny, na ktorej sa nachádza elektrón pri izbovej teplote.",
+        "correct": "b"
+    },
+    {
+        "id": 3,
+        "q": "Konduktivita kovov (merná elektrická vodivosť):",
+        "a": "s rastúcim obsahom nečistôt rastie",
+        "b": "s rastúcim obsahom nečistôt klesá",
+        "c": "nezávisí od koncentrácie prímesí",
+        "correct": "b"
+    },
+    {
+        "id": 4,
+        "q": "Alkalické kovy sú",
+        "a": "chemicky najreaktívnejšie",
+        "b": "minimálne reaktívne",
+        "c": "chemicky inertné",
+        "correct": "a"
+    },
+    {
+        "id": 5,
+        "q": "Pre vodiče platí:",
+        "a": "pokles vodivosti s rastom teploty.",
+        "b": "vzrast vodivosti s rastom teploty.",
+        "c": "rast vodivosti po istú hodnotu teploty potom je vodivosť záporná.",
+        "correct": "a"
+    },
+    {
+        "id": 6,
+        "q": "Vzájomné pôsobenie medzi elektrónmi susedných atómov má za následok",
+        "a": "že ich energetické hladiny sa štiepia a vytvárajú energetické pásma.",
+        "b": "že ich energetické hladiny sa štiepia a vytvárajú tým bodové poruchy.",
+        "c": "že ich energetické hladiny sa neštiepia a tým zabraňujú prechodu medzi orbitálmi.",
+        "correct": "a"
+    },
+    {
+        "id": 7,
+        "q": "Vodiče sú materiály, u ktorých vodivosť je sprostredkovaná",
+        "a": "pohybom protónov.",
+        "b": "pohybom atómov.",
+        "c": "pohybom elektrónov.",
+        "correct": "c"
+    },
+    {
+        "id": 8,
+        "q": "Zohrievanie vodičov pri vysokých hodnotách prúdov je spôsobené v dôsledku toho, že:",
+        "a": "elektróny získajú časť energie jadra atómu.",
+        "b": "elektróny pokračujú vo svojom pohybe bez zmeny energie.",
+        "c": "elektróny odovzdávajú časť svojej energie, čím sa zvyšujú tepelné kmity mriežky.",
+        "correct": "c"
+    },
+    {
+        "id": 9,
+        "q": "Na vzniku chemickej väzby sa podieľa energetické pásmo",
+        "a": "zakázané.",
+        "b": "valenčné.",
+        "c": "vnútorné.",
+        "correct": "b"
+    },
+    {
+        "id": 10,
+        "q": "Supravodivosť je",
+        "a": "rapídny pokles rezistivity niektorých kovov, zliatin a keramik pri podkritickej teplote",
+        "b": "rapídny pokles korozivity niektorých kovov, zliatin a keramik pri teplote blízkej k absolútnej nule",
+        "c": "rapídny pokles konduktivity niektorých kovov, zliatin a keramik pri teplote blízkej k absolútnej nule",
+        "correct": "a"
+    },
+    {
+        "id": 11,
+        "q": "Medzi diamagnetiká patrí",
+        "a": "zlato a striebro",
+        "b": "kyslík a platina",
+        "c": "železo a kremík",
+        "correct": "a"
+    },
+    {
+        "id": 12,
+        "q": "Merná elektrická vodivosť (konduktivita) charakterizuje schopnosť materiálu:",
+        "a": "viesť elektrické napätie",
+        "b": "znižuje elektrický odpor",
+        "c": "viesť elektrický prúd",
+        "correct": "c"
+    },
+    {
+        "id": 13,
+        "q": "Stav, kedy dochádza k prudkému poklesu rezistivity pri splnení určitých podmienok sa nazýva:",
+        "a": "supravodivosť",
+        "b": "konduktivita",
+        "c": "hypervodivosť",
+        "correct": "a"
+    },
+    {
+        "id": 14,
+        "q": "Hladiny dovolených energetických pásiem sú oddelené:",
+        "a": "hladinami zakázaných energií.",
+        "b": "vodivostnými hladinami.",
+        "c": "valenčnými hladinami.",
+        "correct": "a"
+    },
+    {
+        "id": 15,
+        "q": "Klasická elektrónová teória kovov popisuje:",
+        "a": "elektrickú vodivosť kovov na základe existencie voľne pohyblivých atómov",
+        "b": "elektrickú vodivosť kovov na základe existencie voľne pohyblivých elektrónov",
+        "c": "elektrickú vodivosť kovov na základe existencie voľne pohyblivých fotónov",
+        "correct": "b"
+    },
+    {
+        "id": 16,
+        "q": "Supravodivý stav nastane, ak sú splnené 3 podmienky supravodivosti, pričom pre intenzitu magnetického poľa platí:",
+        "a": "intenzita magnetického poľa je nižšia ako kritická intenzita Hk",
+        "b": "intenzita (resp. indukcia) magnetického poľa je vyššia ako kritická intenzita Hk",
+        "c": "intenzita magnetického poľa je rôzna od kritickej intenzity Hk",
+        "correct": "a"
+    },
+    {
+        "id": 17,
+        "q": "Kritické magnetické pole HC je magnetické pole, po ktorého prekročení dochádza",
+        "a": "nedochádza k zmene supravodivého stavu",
+        "b": "k magnetickej levitácii supravodiča",
+        "c": "k strate supravodivých vlastností",
+        "correct": "c"
+    },
+    {
+        "id": 18,
+        "q": "U hypervodičov dochádza pri znižovaní teploty a zvyšovaní čistoty materiálu k:",
+        "a": "zachovaniu koncentrácie nosičov náboja od prímesí",
+        "b": "poklesu rezistivity (merného elektrického odporu)",
+        "c": "nárastu rezistivity (merného elektrického odporu)",
+        "correct": "b"
+    },
+    {
+        "id": 19,
+        "q": "S rastom teploty pohyblivosť elektrónov v kovoch:",
+        "a": "rastie",
+        "b": "nemení sa",
+        "c": "klesá",
+        "correct": "c"
+    },
+    {
+        "id": 20,
+        "q": "Vodiče sú materiály, u ktorých dochádza k prenosu elektrického prúdu, pričom",
+        "a": "dochádza k pozorovateľným chemickým zmenám.",
+        "b": "nedochádza k žiadnym pozorovateľným chemickým zmenám",
+        "c": "spravidla dochádza k posuvu mriežkových rovín materiálu.",
+        "correct": "b"
+    },
+    {
+        "id": 21,
+        "q": "S rastom tlaku sa šírka zakázaného pásma",
+        "a": "zužuje.",
+        "b": "nemení.",
+        "c": "rozširuje.",
+        "correct": "c"
+    },
+    {
+        "id": 22,
+        "q": "U kovov pri nulovej absolútnej teplote je pravdepodobnosť obsadenia energetických hladín pre W > WF:",
+        "a": "P(W) = 1",
+        "b": "P(W) = 0",
+        "c": "P(W) = 0,5",
+        "correct": "b"
+    },
+    {
+        "id": 23,
+        "q": "Valenčné pásmo alkalických kovov:",
+        "a": "je neúplne obsadené",
+        "b": "je prázdne",
+        "c": "je plne obsadené",
+        "correct": "a"
+    },
+    {
+        "id": 24,
+        "q": "Podľa Mathiessenovho pravidla je možné rezistivitu kovov s malým množstvom prímesí vyjadriť ako:",
+        "a": "súčin zvyškovej rezistivity danej koncentráciou prímesí a rezistivity závislej na teplote",
+        "b": "podiel zvyškovej rezistivity danej koncentráciou prímesí a rezistivity závislej na teplote",
+        "c": "súčet rezistivity danej koncentráciou prímesí a rezistivity závislej na teplote",
+        "correct": "c"
+    },
+    {
+        "id": 25,
+        "q": "Pomer kritického prúdu IC a prierezu S supravodiča sa nazýva",
+        "a": "kritická prúdová plocha",
+        "b": "kritický prúdový objem",
+        "c": "kritická prúdová hustota",
+        "correct": "c"
+    },
+    {
+        "id": 26,
+        "q": "Klasická elektrónová teória opisuje elektrickú vodivosť na základe",
+        "a": "predpokladu, že voľný elektrón ľubovoľnej pohybovej energie je riadený zákonmi vlnovej mechaniky.",
+        "b": "existencie voľných pohyblivých elektrónov, ktoré sa pohybujú usmernene pri pôsobení vonkajšieho elektrického poľa.",
+        "c": "existencie fotónov, ktoré spôsobia vznik elektrického prúdu, ak dôjde k zmene polarizácie vonkajšieho elektrického poľa.",
+        "correct": "b"
+    },
+    {
+        "id": 27,
+        "q": "Rezistivita kovov (merný elektrický odpor):",
+        "a": "s rastúcim obsahom nečistôt rastie",
+        "b": "ostáva konštantná",
+        "c": "s rastúcim obsahom nečistôt klesá",
+        "correct": "a"
+    },
+    {
+        "id": 28,
+        "q": "Šírka zakázaného pásma v pásmovom modeli tuhej látky",
+        "a": "nemá vplyv na vodivosť materiálu",
+        "b": "určuje typ vodivosti materiálu",
+        "c": "je vymedzená termodynamickou rovnováhou",
+        "correct": "b"
+    },
+    {
+        "id": 29,
+        "q": "Supravodivosť bola prvý krát pozorovaná v roku 1911 u",
+        "a": "cínu",
+        "b": "medi",
+        "c": "ortuti",
+        "correct": "c"
+    },
+    {
+        "id": 30,
+        "q": "Supravodič je látka, ktorá pri určitej teplote",
+        "a": "mení svoju kryštalickú štruktúru",
+        "b": "zvýši svoj odpor dvojrádovo",
+        "c": "skokovo stráca elektrický odpor o niekoľko rádov",
+        "correct": "c"
+    },
+    {
+        "id": 31,
+        "q": "Pri zrážkach elektrónov s iónmi mriežky",
+        "a": "elektróny odovzdávajú časť svojej energie, čím sa zvyšujú tepelné kmity mriežky.",
+        "b": "elektróny pokračujú vo svojom pohybe bez zmeny energie.",
+        "c": "elektróny získajú časť energie, čo spôsobí nárast prúdu.",
+        "correct": "a"
+    },
+    {
+        "id": 32,
+        "q": "Šírka zakázaného pásma tuhej látky",
+        "a": "je konštantná pre všetky materiály pri izbovej teplote",
+        "b": "prejavuje sa iba v stave energetickej rovnováhy",
+        "c": "je závislá od štruktúry materiálu",
+        "correct": "c"
+    },
+    {
+        "id": 33,
+        "q": "Celkové straty v magnetických materiáloch sa delia na",
+        "a": "hysterézne (magnetizačné) straty, straty vírivými prúdmi a zvyškové straty",
+        "b": "ohmické straty, Jouleove straty a kapacitné straty",
+        "c": "impulzné straty, indukčné straty a ohmické straty",
+        "correct": "a"
+    },
+    {
+        "id": 34,
+        "q": "Teplota, pri ktorej prechádza materiál do supravodivého stavu, sa nazýva",
+        "a": "supravodivá teplota",
+        "b": "prechodová teplota",
+        "c": "kritická teplota",
+        "correct": "c"
+    },
+    {
+        "id": 35,
+        "q": "Ak je šírka zakázaného pásma materiálu ΔWz 1,5 eV - 2,5 eV, hovoríme o:",
+        "a": "izolantoch",
+        "b": "vodičoch",
+        "c": "polovodičoch",
+        "correct": "c"
+    },
+    {
+        "id": 36,
+        "q": "Vypudzovanie magnetického poľa z vnútra supravodiča sa nazýva",
+        "a": "Meissnerov jav",
+        "b": "supravodivosť",
+        "c": "Cooperov jav",
+        "correct": "a"
+    },
+    {
+        "id": 37,
+        "q": "Vodivostné pásmo",
+        "a": "predstavuje súbor energetických pásiem elektrónov uvoľnených z chemických väzieb",
+        "b": "je súbor energetických pásiem elektrónov charakterizujúci vodiče",
+        "c": "je súbor energetických pásiem atómov v tuhom stave",
+        "correct": "a"
+    },
+    {
+        "id": 38,
+        "q": "U ktorých dvoch kovov sa prejavuje hypervodivosť:",
+        "a": "hliník, berýlium",
+        "b": "hliník, striebro",
+        "c": "platinové kovy",
+        "correct": "a"
+    },
+    {
+        "id": 39,
+        "q": "S rastúcim tlakom rezistivita kovov (merný elektrický odpor):",
+        "a": "ostáva rovnaká",
+        "b": "klesá",
+        "c": "stúpa",
+        "correct": "b"
+    },
+    {
+        "id": 40,
+        "q": "Medzi podmienky potrebné na vznik supravodivosti nepatrí:",
+        "a": "podkritická teplota",
+        "b": "podmienka geometrických rozmerov supravodiča",
+        "c": "podkritická intenzita magnetického poľa",
+        "correct": "b"
+    },
+    {
+        "id": 41,
+        "q": "Magneticky tvrdé ferity sa používajú",
+        "a": "pri konštrukcii motorov s vysokou účinnosťou",
+        "b": "v mikrovlnnej technike",
+        "c": "v telekomunikačnej technike",
+        "correct": "a"
+    },
+    {
+        "id": 42,
+        "q": "Magneticky mäkké kovy a zliatiny sa vyznačujú",
+        "a": "širokou hysteréznou slučkou, malou hodnotou maximálnej magnetickej indukcie a veľkou koercitivitou",
+        "b": "úzkou hysteréznou slučkou, veľkou hodnotou maximálnej magnetickej indukcie a malou koercitivitou",
+        "c": "širokou hysteréznou slučkou a malou hodnotou maximálnej magnetickej indukcie",
+        "correct": "b"
+    },
+    {
+        "id": 43,
+        "q": "Anizotropia magnetických vlastností znamená, že",
+        "a": "určitá časť kryštalitov sa orientuje rovnobežne do smeru plastickej deformácie",
+        "b": "dochádza k zmene geometrických rozmerov telesa z magnetického materiálu po jeho vložení do magnetického poľa",
+        "c": "magnetovateľnosť je závislá na kryštalografickom smere",
+        "correct": "c"
+    },
+    {
+        "id": 44,
+        "q": "Vonkajšie magnetické pole je príčinou dvoch základných dejov:",
+        "a": "pohybu doménových stien a natáčania vektorov magnetizácie domén",
+        "b": "natáčania polárnych dielektrík a ich orientácie proti smeru pôsobenia elektrickej indukcie",
+        "c": "vytvorenia elektrostatického poľa a pohybu kladných dier",
+        "correct": "a"
+    },
+    {
+        "id": 45,
+        "q": "Ferity sa používajú",
+        "a": "pre magnetické zámky, magnetické gumené tesnenia, membrány reproduktorov",
+        "b": "pri konštrukcii slúchadiel, mikrofónov, krokových motorčekov analógových hodiniek",
+        "c": "pre jadrá vysokofrekvenčných cievok a transformátorov",
+        "correct": "c"
+    },
+    {
+        "id": 46,
+        "q": "Krivka prvotnej magnetizácie je",
+        "a": "charakteristika feromagnetika pri jeho stacionárnom magnetovaní z odmagnetovaného stavu (H = 0, B = 0) až do nasýtenia",
+        "b": "charakteristika dielektrika pri jeho stacionárnom magnetovaní z odmagnetovaného stavu (H = 0, B = 0) až do nasýtenia",
+        "c": "charakteristika paramagnetika pri jeho stacionárnom magnetovaní z odmagnetovaného stavu (H = 0, B = 0) až do nasýtenia",
+        "correct": "a"
+    },
+    {
+        "id": 47,
+        "q": "Závislosti magnetickej indukcie B od intenzity magnetického poľa H sa nazývajú aj",
+        "a": "prechodové charakteristiky",
+        "b": "fázové prechody",
+        "c": "magnetizačné krivky",
+        "correct": "c"
+    },
+    {
+        "id": 48,
+        "q": "Hysterézna slučka feromagnetických materiálov predstavuje závislosť",
+        "a": "prúdu I na napätí V",
+        "b": "magnetickej indukcie B od frekvencie f",
+        "c": "magnetickej indukcie B od magnetickej intenzity H",
+        "correct": "c"
+    },
+    {
+        "id": 49,
+        "q": "Žiadne dve susedné domény v štruktúre feromagnetických materiálov sa nedotýkajú bezprostredne, ale sú oddelené",
+        "a": "Weissovou stenou",
+        "b": "Curieho stenou",
+        "c": "Blochovou stenou",
+        "correct": "c"
+    },
+    {
+        "id": 50,
+        "q": "Javom magnetická hysterézia sa označuje:",
+        "a": "zaostávanie zmien elektrickej indukcie za zmenami intenzity magnetického poľa",
+        "b": "zaostávanie zmien magnetizácie, resp. magnetickej indukcie za zmenami intenzity magnetického poľa",
+        "c": "zaostávanie zmien elektrickej indukcie za zmenami intenzity elektrického poľa",
+        "correct": "b"
+    },
+    {
+        "id": 51,
+        "q": "Relatívna permeabilita feromagnetika je závislá od:",
+        "a": "elektrickej intenzity a rezistivity",
+        "b": "elektrickej kapacity a hustoty materiálu",
+        "c": "intenzity magnetického poľa a teploty",
+        "correct": "c"
+    },
+    {
+        "id": 52,
+        "q": "Dielektrické straty závisia",
+        "a": "od napätia, frekvencie, relatívnej permitivity a elektrickej vodivosti",
+        "b": "od druhej mocniny napätia, relatívnej permitivity a činiteľa dielektrických strát",
+        "c": "od druhej mocniny napätia, od frekvencie, relatívnej permitivity a činiteľa dielektrických strát",
+        "correct": "c"
+    },
+    {
+        "id": 53,
+        "q": "Elektrická vodivosť u kovov s rastom teploty",
+        "a": "klesá",
+        "b": "nemení sa",
+        "c": "stúpa",
+        "correct": "a"
+    },
+    {
+        "id": 54,
+        "q": "V nehomogénnych tuhých dipólových izolantoch sa okrem iného vyskytuje polarizácia",
+        "a": "spontánna",
+        "b": "migračná",
+        "c": "iónová",
+        "correct": "b"
+    },
+    {
+        "id": 55,
+        "q": "Ohrev dielektrika po jeho vložení do striedavého elektrického poľa je spôsobený:",
+        "a": "činnými stratami reálneho izolantu",
+        "b": "zvyškovou vodivosťou",
+        "c": "dielektrickými stratami",
+        "correct": "c"
+    },
+    {
+        "id": 56,
+        "q": "Zakázané pásmo je:",
+        "a": "najvyššie obsadené pásmo pri nulovej absolútnej teplote",
+        "b": "pásmo, v ktorom sa nemôžu elektróny vyskytovať",
+        "c": "pásmo, v ktorom sa elektróny vyskytujú, ak absorbujú dostatok energie",
+        "correct": "b"
+    },
+    {
+        "id": 57,
+        "q": "Medzi feromagnetické materiály patria:",
+        "a": "chróm, vanád a ich oxidy",
+        "b": "meď, hliník a ich zliatiny",
+        "c": "železo, kobalt, nikel a ich zliatiny",
+        "correct": "c"
+    },
+    {
+        "id": 58,
+        "q": "Migračná polarizácia je typická pre:",
+        "a": "kvapalné izolanty",
+        "b": "plynné izolanty",
+        "c": "viacvrstvové izolanty",
+        "correct": "c"
+    },
+    {
+        "id": 59,
+        "q": "Závislosť konduktivity (elektrickej vodivosti) plynných izolantov od napätia je",
+        "a": "lineárne rastúca",
+        "b": "charakterizovaná troma rozdielnymi oblasťami",
+        "c": "nemenná",
+        "correct": "b"
+    },
+    {
+        "id": 60,
+        "q": "Spontánna polarizácia je typická pre:",
+        "a": "všetky dielektriká",
+        "b": "feromagnetiká",
+        "c": "feroelektriká",
+        "correct": "c"
+    },
+    {
+        "id": 61,
+        "q": "Magnetické kompozity",
+        "a": "sa vyznačujú kombináciou magnetických vlastností a veľkého elektrického odporu",
+        "b": "sú tvorené feromagnetickou alebo ferimagnetickou látkou s nosným médiom (roztoky prírodných alebo syntetických živíc)",
+        "c": "sa vyznačujú širokou hysteréznou slučkou, zvyčajne sú mechanicky tvrdé",
+        "correct": "b"
+    },
+    {
+        "id": 62,
+        "q": "Šírka zakázaného pásma (ΔWz) izolantov je",
+        "a": "< 3 eV",
+        "b": "> 0,7 eV",
+        "c": "> 3 eV",
+        "correct": "c"
+    },
+    {
+        "id": 63,
+        "q": "Elektrická vodivosť izolantov je priamo úmerná",
+        "a": "počtu nosičov nábojov, náboju a pohyblivosti nábojov",
+        "b": "počtu nosičov nábojov a náboju",
+        "c": "počtu nosičov nábojov a intenzite elektrického poľa",
+        "correct": "a"
+    },
+    {
+        "id": 64,
+        "q": "Feromagnetické látky sa po prekročení (Curieho) feromagnetickej teploty stávajú",
+        "a": "paramagnetikom",
+        "b": "ferimagnetikom",
+        "c": "diamagnetikom",
+        "correct": "a"
+    },
+    {
+        "id": 65,
+        "q": "Veľkosť dielektrických strát v nepolárnych kvapalných izolantoch závisí:",
+        "a": "od stupňa čistoty izolačnej kvapaliny",
+        "b": "od termickej aktivácie iónov izolačnej kvapaliny",
+        "c": "od koncentrácie dipólových koloidných častíc",
+        "correct": "a"
+    },
+    {
+        "id": 66,
+        "q": "Charakteristická veľkosť relatívnej permitivity pre plynné dielektriká je:",
+        "a": "10 000",
+        "b": "100",
+        "c": "~1",
+        "correct": "c"
+    },
+    {
+        "id": 67,
+        "q": "Elektronegatívne plyny majú",
+        "a": "veľkú elektrickú pevnosť",
+        "b": "malú elektrickú pevnosť",
+        "c": "veľkú elektrickú vodivosť",
+        "correct": "a"
+    },
+    {
+        "id": 68,
+        "q": "Intenzita magnetického poľa, ktorá je potrebná, aby po predchádzajúcej magnetizácii do nasýtenia poklesla magnetická indukcia na nulovú hodnotu, sa nazýva",
+        "a": "indukcia nasýtenia Bs",
+        "b": "relatívna permeabilita µr",
+        "c": "koercivita Hc",
+        "correct": "c"
+    },
+    {
+        "id": 69,
+        "q": "Susceptibilita a relatívna permeabilita sú v prípade feromagnetického materiálu",
+        "a": "nízke a nezávislé od teploty a magnetického poľa",
+        "b": "nezávislé od teploty a magnetického poľa",
+        "c": "vysoké, silne závislé od teploty a intenzity magnetického poľa",
+        "correct": "c"
+    },
+    {
+        "id": 70,
+        "q": "Magnetický moment atómového jadra je",
+        "a": "veľmi veľký v porovnaní s momentom elektrónov",
+        "b": "porovnateľný s momentom elektrónov",
+        "c": "veľmi malý v porovnaní s momentom elektrónov",
+        "correct": "c"
+    },
+    {
+        "id": 71,
+        "q": "Z fyzikálneho hľadiska možno dielektrické straty rozdeliť na tri hlavné druhy:",
+        "a": "vodivostné, polarizačné, ionizačné",
+        "b": "termické, materiálové, rezonančné",
+        "c": "izolačné, väzbové, prúdové",
+        "correct": "a"
+    },
+    {
+        "id": 72,
+        "q": "Povrchová vodivosť tuhých izolantov je výraznejšia ak povrch izolantu je",
+        "a": "nezmáčavý",
+        "b": "zmáčavý",
+        "c": "nezáleží na zmáčavosti",
+        "correct": "b"
+    },
+    {
+        "id": 73,
+        "q": "Vznik domén je spojený so snahou magnetickej látky",
+        "a": "znižiť vlastnú magnetickú energiu",
+        "b": "zvýšiť vlastnú magnetickú energiu",
+        "c": "zachovať si vlastnú magnetickú energiu bez zmeny",
+        "correct": "a"
+    },
+    {
+        "id": 74,
+        "q": "Makroskopickou mierou polarizovateľnosti je",
+        "a": "relatívna permitivita",
+        "b": "elektrická pevnosť",
+        "c": "elektrická vodivosť",
+        "correct": "a"
+    },
+    {
+        "id": 75,
+        "q": "Medzi polarizáciou a elektrickým poľom vo feroelektriku je",
+        "a": "lineárne rastúca závislosť",
+        "b": "nie je závislosť",
+        "c": "nelineárne rastúca závislosť",
+        "correct": "c"
+    },
+    {
+        "id": 76,
+        "q": "Ktorá polarizácia sa vyskytuje pri frekvenciách viditeľného svetla a je dôležitá pre spektrálnu analýzu:",
+        "a": "medzivrstvová (migračná)",
+        "b": "spontánna (samovoľná)",
+        "c": "rezonančná",
+        "correct": "c"
+    },
+    {
+        "id": 77,
+        "q": "Ettingshausenov jav je",
+        "a": "vznik priečneho rozdielu teplôt vo vzorke polovodiča, ak ňou prechádza elektrický prúd a súčasne sa nachádza v magnetickom poli",
+        "b": "vznik priečneho rozdielu teplôt vo vzorke polovodiča, ak ňou prechádza magnetické pole",
+        "c": "vznik napätia vo vzorke polovodiča, ak ňou prechádza magnetické pole",
+        "correct": "a"
+    },
+    {
+        "id": 78,
+        "q": "Medzi magneticky mäkké materiály patrí",
+        "a": "liatinové magnety",
+        "b": "neodýmiové magnety (NdFeB)",
+        "c": "technicky čisté železo, ocele",
+        "correct": "c"
+    },
+    {
+        "id": 79,
+        "q": "Izolanty sú využívané najmä",
+        "a": "na izoláciu vodivých telies",
+        "b": "ako dielektriká",
+        "c": "na tienenie elektromagnetického poľa",
+        "correct": "a"
+    },
+    {
+        "id": 80,
+        "q": "Vložením diamagnetického materiálu do magnetického poľa sa toto pole",
+        "a": "oslabuje",
+        "b": "neovplyvňuje",
+        "c": "zosilňuje",
+        "correct": "a"
+    },
+    {
+        "id": 81,
+        "q": "Polárne kvapalné izolanty majú polarizáciu",
+        "a": "elektrónovú a dipólovú",
+        "b": "dipólovú a iónovú",
+        "c": "elektrónovú a iónovú",
+        "correct": "a"
+    },
+    {
+        "id": 82,
+        "q": "Polarizačná zložka dielektrických strát vzniká",
+        "a": "vplyvom jednosmerného elektrického poľa v polárnych dielektrikách",
+        "b": "vplyvom jednosmerného elektrického poľa v nepolárnych dielektrikách",
+        "c": "len vplyvom striedavého elektrického poľa v polárnych dielektrikách",
+        "correct": "c"
+    },
+    {
+        "id": 83,
+        "q": "Medzi magneticky mäkké materiály patria",
+        "a": "oxidy MnO a NiO",
+        "b": "zliatina AlNiCo a zliatina FeCrCo",
+        "c": "ocele a zliatiny FeCo",
+        "correct": "c"
+    },
+    {
+        "id": 84,
+        "q": "Spinový magnetický moment ms je vyvolaný",
+        "a": "rotáciou elektrónov okolo ich osí",
+        "b": "neúplne obsadenými vnútornými orbitálmi",
+        "c": "rotáciou elektrónov okolo jadra",
+        "correct": "a"
+    },
+    {
+        "id": 85,
+        "q": "Medzi najväčšie výhody kremíka patrí",
+        "a": "vlastnosť vytvárať elektronické prvky s vysokou pohyblivosťou nosičov náboja v porovnaní s inými polovodičmi",
+        "b": "odolnosť voči tvorbe oxidu SiO2, ktorý znemožňuje realizovať fotolitografické postupy",
+        "c": "schopnosť tvorby oxidu SiO2, ktorý umožňuje realizovať fotolitografické postupy",
+        "correct": "c"
+    },
+    {
+        "id": 86,
+        "q": "Medzi paramagnetiká patrí",
+        "a": "kyslík a platina",
+        "b": "železo a kremík",
+        "c": "zlato a striebro",
+        "correct": "a"
+    },
+    {
+        "id": 87,
+        "q": "Podmienkou vzniku lavínového javu je",
+        "a": "dostatočná koncentrácia atómov",
+        "b": "dostatočná hrúbka hradlovej vrstvy",
+        "c": "čo najlepšia adhézia priechodu PN",
+        "correct": "b"
+    },
+    {
+        "id": 88,
+        "q": "Hodnota magnetickej indukcie, ktorá zostane vo feromagnetiku po znížení intenzity magnetického poľa na nulu je",
+        "a": "indukcia nasýtenia Bs",
+        "b": "remanentná indukcia Br",
+        "c": "relatívna permeabilita µr",
+        "correct": "b"
+    },
+    {
+        "id": 89,
+        "q": "Medzi polarizáciou dielektrika a intenzitou elektrického poľa",
+        "a": "je nepriamoúmerný vzťah",
+        "b": "je úmerný vzťah",
+        "c": "nie je žiaden vzťah",
+        "correct": "b"
+    },
+    {
+        "id": 90,
+        "q": "Difúzia vedie k",
+        "a": "vytváraniu teplotných alebo koncentračných nerovností",
+        "b": "vyrovnaniu koncentrácií a/alebo teplôt",
+        "c": "vzniku teplotných a koncentračných gradientov",
+        "correct": "b"
+    },
+    {
+        "id": 91,
+        "q": "Bohrov magnetón je",
+        "a": "priemernou kvantovou jednotkou magnetického momentu",
+        "b": "najväčšou kvantovou jednotkou magnetického momentu",
+        "c": "najmenšou kvantovou jednotkou magnetického momentu",
+        "correct": "c"
+    },
+    {
+        "id": 92,
+        "q": "Dielektrické straty závisia od",
+        "a": "teploty, napätia, frekvencie, permitivity a stratového činiteľa",
+        "b": "teploty, hrúbky izolantu, vlhkosti, permitivity a stratového činiteľa",
+        "c": "kapacity, vlhkosti, permitivity a stratového činiteľa",
+        "correct": "a"
+    },
+    {
+        "id": 93,
+        "q": "Ak Wk je väčšie ako Wp, na styku kov - polovodič N,",
+        "a": "ohmický kontakt",
+        "b": "vznikne PN prechod",
+        "c": "antihradlová vrstva",
+        "correct": "b"
+    },
+    {
+        "id": 94,
+        "q": "Remanencia feromagnetických materiálov Br je definovaná ako",
+        "a": "elektrická indukcia poľa pri nulovej teplote okolitého prostredia",
+        "b": "magnetická indukcia pri nulovej intenzite magnetického poľa po predchádzajúcej magnetizácii do nasýtenia",
+        "c": "intenzita magnetického poľa, ktorá je potrebná, aby po predchádzajúcej magnetizácii do nasýtenia poklesla magnetická indukcia na nulovú hodnotu",
+        "correct": "b"
+    },
+    {
+        "id": 95,
+        "q": "Z VA charakteristiky plynných izolantov vyplýva, že v oblasti nasýteného prúdu je prúd",
+        "a": "nezávislý od napätia",
+        "b": "s napätím lineárne rastie",
+        "c": "s napätím lineárne klesá",
+        "correct": "a"
+    },
+    {
+        "id": 96,
+        "q": "Podmienkou pre tunelový prieraz PN prechodu je",
+        "a": "dostatočne tenká hradlová vrstva",
+        "b": "ionizácia nosičov nábojov v priepustnom smere",
+        "c": "dostatočne hrubá hradlová vrstva",
+        "correct": "a"
+    },
+    {
+        "id": 97,
+        "q": "V nepolárnych kvapalných izolantoch sa vyskytuje len elektrónová polarizácia, preto je veľkosť relatívnej permitivity spravidla",
+        "a": "~ 2,5",
+        "b": "~ 0",
+        "c": "~ 1",
+        "correct": "a"
+    },
+    {
+        "id": 98,
+        "q": "Medzi primárne magnetické vlastnosti patria",
+        "a": "susceptibilita a koercivita",
+        "b": "nasýtená magnetická polarizácia Js a Curieho teplota Tc",
+        "c": "magnetická indukcia a permeabilita",
+        "correct": "b"
+    },
+    {
+        "id": 99,
+        "q": "Straty v magnetických materiáloch sú sprevádzané",
+        "a": "v dôsledku nesprávneho použitia",
+        "b": "nárastom relatívnej permeability",
+        "c": "oteplením materiálu",
+        "correct": "c"
+    },
+    {
+        "id": 100,
+        "q": "Magneticky mäkké materiály majú",
+        "a": "Hc väčšie ako 1 500 A/m a je ich ťažké zmagnetizovať",
+        "b": "Hc menšie ako 800 A/m a je ich ťažké zmagnetizovať",
+        "c": "Hc menšie ako 800 A/m a možno ich ľahko zmagnetizovať aj odmagnetizovať",
+        "correct": "c"
+    },
+    {
+        "id": 101,
+        "q": "Rovnica elektrickej neutrality vo vlastnom polovodiči hovorí, že:",
+        "a": "koncentrácia dier je rovná koncentrácii voľných elektrónov",
+        "b": "koncentrácia voľných elektrónov je omnoho väčšia ako koncentrácia dier",
+        "c": "koncentrácia dier je omnoho väčšia ako koncentrácia voľných elektrónov",
+        "correct": "a"
+    },
+    {
+        "id": 102,
+        "q": "U elektroluminiscenčného javu následkom pôsobenia elektrického poľa dochádza k",
+        "a": "vyžarovaniu elektrónov",
+        "b": "vyžarovaniu iónov",
+        "c": "vyžarovaniu EMG žiarenia",
+        "correct": "c"
+    },
+    {
+        "id": 103,
+        "q": "V silných EP existuje",
+        "a": "samostatná elektrická vodivosť",
+        "b": "samostatná aj nesamostatná elektrická vodivosť",
+        "c": "nesamostatná elektrická vodivosť",
+        "correct": "a"
+    },
+    {
+        "id": 104,
+        "q": "Pohyblivosť molekúl v polárnych kvapalinách",
+        "a": "súvisí s viskozitou a teplotou",
+        "b": "súvisí s frekvenciou a teplotou",
+        "c": "nesúvisí s teplotou",
+        "correct": "a"
+    },
+    {
+        "id": 105,
+        "q": "Dielektrické materiály sa používajú pre",
+        "a": "konštrukciu kondenzátorov",
+        "b": "konštrukciu transformátorov",
+        "c": "konštrukciu kondenzátorov a cievok",
+        "correct": "a"
+    },
+    {
+        "id": 106,
+        "q": "Ak je PN priechod polarizovaný v závernom smere,",
+        "a": "šírka hradlovej vrstvy sa zmenšuje",
+        "b": "tvar PN priechodu sa vychyľuje v smere vzniknutého magnetického poľa",
+        "c": "šírka hradlovej vrstvy sa zväčšuje",
+        "correct": "c"
+    },
+    {
+        "id": 107,
+        "q": "Podľa veľkosti stratového čísla sa",
+        "a": "hodnotí miera polarizácie dielektrika",
+        "b": "posudzujú dielektrické straty izolantu",
+        "c": "hodnotí schopnosť izolantu viesť elektrický prúd",
+        "correct": "b"
+    },
+    {
+        "id": 108,
+        "q": "Dielektrická susceptibilita je definovaná ako",
+        "a": "konštanta úmernosti medzi elektrickým poľom E a vzdialenosťou elektród",
+        "b": "konštanta úmernosti medzi napätím a kapacitou",
+        "c": "konštanta úmernosti medzi elektrickým poľom E a indukovanou dielektrickou hustotou polarizácie P",
+        "correct": "c"
+    },
+    {
+        "id": 109,
+        "q": "Názov diera v teórii polovodičov predstavuje",
+        "a": "porucha kryštálovej mriežky, na ktorej mieste sa nachádzal atóm polovodiča",
+        "b": "priestor, v ktorom sa nachádzal elektrón, neobsadenú kovalentnú väzbu",
+        "c": "priestor, ktorý vznikne v okolí elektrónu, ktorý sa nachádza vo vodivostnom pásme",
+        "correct": "b"
+    },
+    {
+        "id": 110,
+        "q": "Elektrický odpor prechodu PN pri zapojení v závernom smere sa",
+        "a": "zmenší, obvodom prechádza veľký prúd tvorený iba menšinovými voľnými nosičmi náboja",
+        "b": "zmenší, obvodom prechádzajú len majoritné nosiče náboja",
+        "c": "zväčší, obvodom prechádza veľmi malý zvyškový prúd",
+        "correct": "c"
+    },
+    {
+        "id": 111,
+        "q": "V nepolárnych kvapalných izolantoch sa vyskytuje",
+        "a": "len iónová polarizácia, typická pre kvapaliny",
+        "b": "len elektrónová polarizácia",
+        "c": "elektrónová i iónová polarizácia",
+        "correct": "b"
+    },
+    {
+        "id": 112,
+        "q": "Fotonapäťový fotovoltický jav je definovaný ako vznik",
+        "a": "rozdielu koncentrácie nosičov náboja vplyvom magnetického poľa",
+        "b": "mikrovlnových kmitov pripojením jednosmerného napätia",
+        "c": "elektrického napätia v dôsledku ožiarenia osvetlenia",
+        "correct": "c"
+    },
+    {
+        "id": 113,
+        "q": "V slabých EP existuje",
+        "a": "nesamostatná elektrická vodivosť",
+        "b": "samostatná elektrická vodivosť",
+        "c": "samostatná aj nesamostatná elektrická vodivosť",
+        "correct": "a"
+    },
+    {
+        "id": 114,
+        "q": "Po vložení dielektrika alebo izolantu do elektrického poľa sa v tomto materiáli určitá časť energie premieňa na neužitočné teplo. Táto energia sa nazýva",
+        "a": "relatívna permitivita",
+        "b": "Jouleove straty",
+        "c": "dielektrické straty",
+        "correct": "c"
+    },
+    {
+        "id": 115,
+        "q": "Waldenov zákon hovorí, že",
+        "a": "súčin elektrickej vodivosti a viskozity je približne konštantný",
+        "b": "súčin viskozity a počtu polarizovaných častíc je približne konštantný",
+        "c": "súčin viskozity a pohyblivosti je približne konštantný",
+        "correct": "a"
+    },
+    {
+        "id": 116,
+        "q": "Zatavenie dotovacieho materiálu na polovodičovej platničke je typické pre",
+        "a": "iónovú implantáciu",
+        "b": "zliatinovú technológiu",
+        "c": "epitaxnú technológiu",
+        "correct": "b"
+    },
+    {
+        "id": 117,
+        "q": "Hlavným parametrom dielektrických materiálov je",
+        "a": "relatívna permeabilita",
+        "b": "relatívna permitivita",
+        "c": "relatívna reaktancia",
+        "correct": "b"
+    },
+    {
+        "id": 118,
+        "q": "V iónových kryštalických látkach sa vyskytuje polarizácia",
+        "a": "elektrónová a iónová relaxačná",
+        "b": "elektrónová a spontánna",
+        "c": "elektrónová a iónová pružná",
+        "correct": "c"
+    },
+    {
+        "id": 119,
+        "q": "Ktorá z možností najlepšie charakterizuje plazmové naprašovanie",
+        "a": "kladné ióny, ktoré vzniknú tlejivým výbojom, bombardujú terčík a vyrážajú z neho atómy naprašovacieho materiálu",
+        "b": "voľné elektróny urýchľované elektromagnetickým poľom vyrážajú materiál terčíka",
+        "c": "epitaxia iónov naprašovaných na terčík",
+        "correct": "a"
+    },
+    {
+        "id": 120,
+        "q": "Polarizácia ktorého druhu má najrýchlejší priebeh (najkratšiu dobu trvania):",
+        "a": "relaxačná",
+        "b": "pružná",
+        "c": "medzivrstvová",
+        "correct": "b"
+    },
+    {
+        "id": 121,
+        "q": "Heteroepitaxia je",
+        "a": "rast vrstvy rovnakého zloženia ako substrát",
+        "b": "výroba monokryštálov z kvapalnej aj tuhej fázy",
+        "c": "rast vrstvy rozdielneho zloženia ako substrát",
+        "correct": "c"
+    },
+    {
+        "id": 122,
+        "q": "Minoritnými nosičmi náboja v polovodiči typu P sú",
+        "a": "diery",
+        "b": "elektróny aj diery, zúčastňujúce sa na vodivosti približne rovnakou mierou",
+        "c": "elektróny",
+        "correct": "c"
+    },
+    {
+        "id": 123,
+        "q": "S rastúcou teplotou relatívna permitivita polárnych kvapalín:",
+        "a": "v určitom intervale rastie",
+        "b": "nemení sa",
+        "c": "lineárne klesá",
+        "correct": "a"
+    },
+    {
+        "id": 124,
+        "q": "V prípade nepolárnych kvapalných izolantov vznikajú pri pôsobení elektrického poľa",
+        "a": "ióny disociáciou molekúl a nečistôt",
+        "b": "nevznikajú ióny ani elektróny",
+        "c": "ióny disociáciou vlastných molekúl",
+        "correct": "a"
+    },
+    {
+        "id": 125,
+        "q": "Príprava východzieho materiálu pre výrobu polovodičových čipov zahŕňa",
+        "a": "naparovanie a naprašovanie prímesí",
+        "b": "elektromagnetické odlučovanie nečistôt z kvapalnej fázy",
+        "c": "chemické a fyzikálne metódy čistenia",
+        "correct": "c"
+    },
+    {
+        "id": 126,
+        "q": "Segregačný koeficient je daný",
+        "a": "rozdielom koncentrácie prímesí v tuhej a kvapalnej fáze",
+        "b": "pomerom koncentrácie prímesí v tuhej a kvapalnej fáze",
+        "c": "súčinom koncentrácie prímesí v tuhej a kvapalnej fáze",
+        "correct": "b"
+    },
+    {
+        "id": 127,
+        "q": "Aká je závislosť relatívnej permitivity od teploty u nepolárnych kvapalín?",
+        "a": "lineárne rastúca",
+        "b": "nezávisí od teploty",
+        "c": "lineárne klesajúca",
+        "correct": "c"
+    },
+    {
+        "id": 128,
+        "q": "Curieho - Weissov zákon hovorí, že relatívna permitivita feroelektrík s rastom teploty",
+        "a": "exponenciálne rastie",
+        "b": "hyperbolicky klesá",
+        "c": "lineárne klesá",
+        "correct": "b"
+    },
+    {
+        "id": 129,
+        "q": "Schottkyho priechod vzniká spojením",
+        "a": "polovodiča a izolantu",
+        "b": "kovového a polovodičového materiálu",
+        "c": "dvoch kovových materiálov",
+        "correct": "b"
+    },
+    {
+        "id": 130,
+        "q": "Donory sú spravidla",
+        "a": "prvky mocenstvom nižším, ako mocenstvo základného polovodiča",
+        "b": "prvky zo I. skupiny periodickej tabuľky prvkov",
+        "c": "prvky mocenstvom vyšším, ako mocenstvo základného polovodiča",
+        "correct": "c"
+    },
+    {
+        "id": 131,
+        "q": "Remanentnú indukciu Br možno zrušiť",
+        "a": "stacionárnym magnetovaním z odmagnetovaného stavu H 0, B 0 a do nasýtenia",
+        "b": "opačne orientovaným magnetickým poľom s intenzitou rovnajúcou sa intenzite koercitívneho poľa Hc",
+        "c": "planárnou technológiou",
+        "correct": "b"
+    },
+    {
+        "id": 132,
+        "q": "V slabom elektrickom poli dochádza u izolantov",
+        "a": "k vodivosti samostatnej ionizácia a uvoľnenie elektrónov",
+        "b": "k vodivosti nesamostatnej",
+        "c": "k prierazu",
+        "correct": "b"
+    },
+    {
+        "id": 133,
+        "q": "Mesa technológia je tvorená kombináciou",
+        "a": "epitaxnej a difúznej metódy",
+        "b": "povrchovej a objemovej planárnej metódy",
+        "c": "difúznej a zliatinovej metódy",
+        "correct": "c"
+    },
+    {
+        "id": 134,
+        "q": "Jednotkou relatívnej permitivity je",
+        "a": "F",
+        "b": "bezrozmerná veličina",
+        "c": "Fm",
+        "correct": "b"
+    },
+    {
+        "id": 135,
+        "q": "Polarizácia ktorého druhu nastáva bez strát energie:",
+        "a": "relaxačná",
+        "b": "pružná",
+        "c": "ionizačná",
+        "correct": "b"
+    },
+    {
+        "id": 136,
+        "q": "Podmienkou tunelového javu na PN prechode je",
+        "a": "vysoké napätie pri prechode prúdu",
+        "b": "dostatočne hrubá hradlová vrstva",
+        "c": "tenká hradlová vrstva",
+        "correct": "c"
+    },
+    {
+        "id": 137,
+        "q": "Pre polarizáciu ktorého druhu je charakteristický vznik indukovaného dipólového momentu na makroskopické vzdialenosti:",
+        "a": "relaxačná",
+        "b": "medzivrstvová migračná",
+        "c": "pružná",
+        "correct": "b"
+    },
+    {
+        "id": 138,
+        "q": "V nepolárnych kvapalných izolantoch sa vyskytuje iba:",
+        "a": "medzivrstvová polarizácia",
+        "b": "rezonančná polarizácia",
+        "c": "elektrónová polarizácia",
+        "correct": "c"
+    },
+    {
+        "id": 139,
+        "q": "Reálne izolanty",
+        "a": "neobsahujú voľné nosiče náboja",
+        "b": "obsahujú pomerne určité množstvo voľných nosičov náboja bez vplyvu na elektrickú vodivosť",
+        "c": "obsahujú určité množstvo nosičov nábojov, preto majú merateľnú rezistivitu resp. konduktivitu",
+        "correct": "c"
+    },
+    {
+        "id": 140,
+        "q": "Coulombov zákon hovorí, že veľkosť sily medzi dvoma bodovými nábojmi je",
+        "a": "nepriamo úmerná veľkosti súčinu nábojov a nepriamo úmerná druhej mocnine vzdialenosti medzi nimi",
+        "b": "nepriamo úmerná veľkosti súčinu nábojov a priamo úmerná druhej mocnine vzdialenosti medzi nimi",
+        "c": "priamo úmerná veľkosti súčinu nábojov a nepriamo úmerná druhej mocnine vzdialenosti medzi nimi",
+        "correct": "c"
+    },
+    {
+        "id": 141,
+        "q": "V silnom elektrickom poli dochádza u izolantov",
+        "a": "k vodivosti vplyvom disociácie nečistôt",
+        "b": "k vodivosti samostatnej ionizácia a uvoľnenie elektrónov",
+        "c": "k vodivosti nesamostatnej",
+        "correct": "b"
+    },
+    {
+        "id": 142,
+        "q": "Teplota nasýtenia prímesových polovodičov je:",
+        "a": "teplota, pri ktorej sú všetky prímesi ionizované",
+        "b": "teplota, pri ktorej dochádza k prudkému zníženiu vodivosti polovodiča",
+        "c": "teplota, pri ktorej sa začínajú na vodivosti podieľať aj lokalizované elektróny a diery vlastného polovodiča",
+        "correct": "c"
+    },
+    {
+        "id": 143,
+        "q": "S rastom teploty elektrická vodivosť kvapalných izolantov",
+        "a": "rastie, lebo rastie pohyblivosť a exponenciálne narastá koncentrácia",
+        "b": "rastie, lebo sa zvyšuje viskozita a stupeň disociácie častíc",
+        "c": "klesá, lebo častejšie dochádza k zrážkam voľných nosičov nábojov",
+        "correct": "a"
+    },
+    {
+        "id": 144,
+        "q": "Aká je závislosť relatívnej permitivity od frekvencie u nepolárnych kvapalín",
+        "a": "lineárne rastúca",
+        "b": "nezávisí od frekvencie",
+        "c": "nelineárne rastúca",
+        "correct": "b"
+    },
+    {
+        "id": 145,
+        "q": "Indukovaný dipólový moment je vysunutie ťažísk elektrických nábojov z rovnovážnych polôh vplyvom:",
+        "a": "spontánnej polarizácie",
+        "b": "elektrického poľa",
+        "c": "pohyblivosti nosičov náboja",
+        "correct": "b"
+    },
+    {
+        "id": 146,
+        "q": "Elektrická pevnosť tuhých izolantov s rastúcou hrúbkou",
+        "a": "stúpa",
+        "b": "nemení sa",
+        "c": "klesá",
+        "correct": "c"
+    },
+    {
+        "id": 147,
+        "q": "Diódový jav sa nazýva",
+        "a": "jav závislosti elektrického napätia polovodiča s priechodom PN od polarity vonkajšieho zdroja napätia pripojeného k polovodiču",
+        "b": "jav závislosti elektrického prúdu v polovodiči s priechodom PN od polarity vonkajšieho zdroja napätia pripojeného k polovodiču",
+        "c": "jav závislosti elektrického odporu polovodiča s priechodom PN od polarity vonkajšieho zdroja napätia pripojeného k polovodiču",
+        "correct": "b"
+    },
+    {
+        "id": 148,
+        "q": "Curieho - Weissov zákon charakterizuje",
+        "a": "spôsob polarizácie dielektrík",
+        "b": "zmenu viskozity kvapalného dielektrika",
+        "c": "teplotu fázového prechodu vo feroelektrikách",
+        "correct": "c"
+    },
+    {
+        "id": 149,
+        "q": "S rastúcou teplotou relatívna permitivita nepolárnych kvapalín:",
+        "a": "lineárne klesá",
+        "b": "nemení sa",
+        "c": "lineárne rastie",
+        "correct": "a"
+    },
+    {
+        "id": 150,
+        "q": "Ideálny izolant je látka, ktorá",
+        "a": "neobsahuje žiadne voľné nosiče náboja, a teda je dokonale nevodivý",
+        "b": "obsahuje určité množstvo voľného náboja, a je teda má konštantnú zvyškovú vodivosť",
+        "c": "obsahuje určité množstvo voľného náboja, avšak pre nízku koncentráciu prispieva k vodivosti zanedbateľnou mierou",
+        "correct": "a"
+    },
+    {
+        "id": 151,
+        "q": "Paschenov zákon hovorí, že prierazné napätie plynných izolantov závisí",
+        "a": "od súčinu tlaku plynu a vzdialenosti medzi elektródami",
+        "b": "od súčinu frekvencie a vzdialenosti medzi elektródami",
+        "c": "od vlhkosti a teploty",
+        "correct": "a"
+    },
+    {
+        "id": 152,
+        "q": "Polarizácia ktorého druhu má pomalý priebeh:",
+        "a": "relaxačná",
+        "b": "pružná",
+        "c": "rezonančná",
+        "correct": "a"
+    },
+    {
+        "id": 153,
+        "q": "Dielektrické straty v nepolárnych izolantoch sú len",
+        "a": "vodivostné",
+        "b": "vodivostné a polarizačné",
+        "c": "ionizačné",
+        "correct": "a"
+    },
+    {
+        "id": 154,
+        "q": "V jednosmernom elektrickom poli sú dielektrické straty zapríčinené predovšetkým",
+        "a": "elektrickou vodivosťou dielektrika",
+        "b": "vysokými frekvenciami",
+        "c": "rôznymi druhmi polarizácií",
+        "correct": "a"
+    },
+    {
+        "id": 155,
+        "q": "Seebeckov jav je:",
+        "a": "magnetostrikcia v polovodiči, ak v ňom existuje teplotný gradient",
+        "b": "vznik termomagnetického poľa v polovodičoch",
+        "c": "vznik termoelektrického napätia v látke, pozdĺž ktorej existuje teplotný gradient",
+        "correct": "c"
+    },
+    {
+        "id": 156,
+        "q": "Závislosť vektora polarizácie od intenzity elektrického poľa vo feroelektrikách je",
+        "a": "nelineárna",
+        "b": "bez výrazných zmien",
+        "c": "lineárne rastúca",
+        "correct": "a"
+    },
+    {
+        "id": 157,
+        "q": "Technológia MESA využíva v svojom procese",
+        "a": "epitaxiu z kvapalnej fázy",
+        "b": "iónovú implantáciu",
+        "c": "difúziu a legovanie",
+        "correct": "c"
+    },
+    {
+        "id": 158,
+        "q": "Indukovaný dipólový moment častice závisí na",
+        "a": "polarizovateľnosti",
+        "b": "relatívnej permitivite",
+        "c": "vodivosti",
+        "correct": "a"
+    },
+    {
+        "id": 159,
+        "q": "Relatívna permitivita",
+        "a": "je makroskopická veličina charakterizujúca schopnosť viesť elektrický prúd u izolantu",
+        "b": "závisí od magnetickej indukcie",
+        "c": "vyjadruje schopnosť materiálu polarizovať sa",
+        "correct": "c"
+    },
+    {
+        "id": 160,
+        "q": "Vyberte správne tvrdenie:",
+        "a": "ak kladnú svorku zdroja pripojíme k polovodiču typu N a zápornú svorku k polovodiču typu P potom sa intenzita elektrického poľa prechodu PN zväčší",
+        "b": "ak kladnú svorku zdroja pripojíme k polovodiču typu P a zápornú svorku k polovodiču typu N potom sa intenzita elektrického poľa prechodu PN zväčší",
+        "c": "ak kladnú svorku zdroja pripojíme k polovodiču typu N a zápornú svorku k polovodiču typu P potom sa intenzita elektrického poľa prechodu PN zmenší",
+        "correct": "c"
+    },
+    {
+        "id": 161,
+        "q": "Unipolárne tranzistory pracujú na princípe ovplyvňovania",
+        "a": "iba majoritných nosičov náboja",
+        "b": "majoritných a minoritných nosičov náboja",
+        "c": "iba minoritných nosičov náboja",
+        "correct": "a"
+    },
+    {
+        "id": 162,
+        "q": "Ionizačná krivka je závislosť činiteľa dielektrických strát tg delta",
+        "a": "od napätia pre tuhý izolant obsahujúci dutinky",
+        "b": "na teplote pre kvapalný izolant",
+        "c": "na teplote pre tuhý izolant",
+        "correct": "a"
+    },
+    {
+        "id": 163,
+        "q": "Elektronegatívne plyny majú schopnosť zachytávať na svojich",
+        "a": "atómoch elektróny",
+        "b": "molekulách elektróny",
+        "c": "atómoch ióny",
+        "correct": "b"
+    },
+    {
+        "id": 164,
+        "q": "Hallov jav je využívaný na",
+        "a": "k realizácii polovodičových chladiacich článkov",
+        "b": "priamu premenu tepelnej energie na elektrickú",
+        "c": "meranie intenzity magnetického poľa",
+        "correct": "c"
+    },
+    {
+        "id": 165,
+        "q": "Vákuové naparovanie je vytváranie tenkých vrstiev odparovaním vyhrievaného materiálu",
+        "a": "v inertnom vákuu",
+        "b": "vo vysokom vákuu",
+        "c": "v inertnej atmosfére",
+        "correct": "b"
+    },
+    {
+        "id": 166,
+        "q": "Pri zapojení PN priechodu v závernom smere obvodom prúd",
+        "a": "prechádza",
+        "b": "rastie, ak rastie napätie",
+        "c": "neprechádza",
+        "correct": "c"
+    },
+    {
+        "id": 167,
+        "q": "Ionizačná krivka je v technickej praxi využívaná na",
+        "a": "posúdenie kvality izolácie elektrických strojov",
+        "b": "posúdenie úrovne ionizácie kvapalného izolantu",
+        "c": "posúdenie elektrickej pevnosti vzduchu",
+        "correct": "a"
+    },
+    {
+        "id": 168,
+        "q": "Elektrická vodivosť u vlastných polovodičov s rastom teploty",
+        "a": "stúpa",
+        "b": "nemení sa",
+        "c": "klesá",
+        "correct": "a"
+    },
+    {
+        "id": 169,
+        "q": "V technickej praxi sú využívané predovšetkým",
+        "a": "dvoj- a viaczložkové polovodiče",
+        "b": "vlastné polovodiče",
+        "c": "prímesové polovodiče",
+        "correct": "c"
+    },
+    {
+        "id": 170,
+        "q": "Podstata diódového javu vyplýva z",
+        "a": "V-A charakteristiky PN priechodu",
+        "b": "časovej závislosti striedavého napätia",
+        "c": "časovej závislosti jednosmerného prúdu",
+        "correct": "a"
+    },
+    {
+        "id": 171,
+        "q": "Rozpustený epitaxant je privedený do stavu presýtenia roztoku a po kontakte so substrátom sa zráža vplyvom",
+        "a": "zníženia teploty",
+        "b": "zníženia viskozity",
+        "c": "zvýšenia tlaku",
+        "correct": "a"
+    },
+    {
+        "id": 172,
+        "q": "Schottkyho priechod sa líši od p-n priechodu tým,",
+        "a": "že cez bariéru prechádzajú obidva typy nosičov nábojov",
+        "b": "že je unipolárny",
+        "c": "že je bipolárny",
+        "correct": "b"
+    },
+    {
+        "id": 173,
+        "q": "Rekombinácia nosičov náboja v polovodičoch je",
+        "a": "proces zániku voľných nosičov náboja",
+        "b": "proces vzniku voľných nosičov náboja",
+        "c": "proces pri ktorom dochádza k uzavretiu elektrónovej štruktúry polovodiča",
+        "correct": "a"
+    },
+    {
+        "id": 174,
+        "q": "Monokryštál kremíka sa vyrába napríklad",
+        "a": "dotovaním",
+        "b": "ťahaním z kelímka",
+        "c": "pásmovým tavením",
+        "correct": "b"
+    },
+    {
+        "id": 175,
+        "q": "Čo sú majoritné nosiče náboja v n-type polovodiča?",
+        "a": "elektróny a kladné diery",
+        "b": "elektróny",
+        "c": "kladné diery",
+        "correct": "b"
+    },
+    {
+        "id": 176,
+        "q": "Bipolárne tranzistory využívajú pre svoju činnosť",
+        "a": "iba majoritné nosiče náboja",
+        "b": "majoritné a minoritné nosiče náboja",
+        "c": "iba minoritné nosiče náboja",
+        "correct": "b"
+    },
+    {
+        "id": 177,
+        "q": "Bipolárne tranzistory využívajú",
+        "a": "jeden priechod PN",
+        "b": "tri priechody PN",
+        "c": "dva priechody PN",
+        "correct": "c"
+    },
+    {
+        "id": 178,
+        "q": "Rekombinácia nosičov náboja v polovodičoch je",
+        "a": "sprevádzaná vyžiarením kvanta energie",
+        "b": "stav, kedy dochádza k posunu kryštalografických rovín",
+        "c": "sprevádzaná absorpciou žiarenia",
+        "correct": "a"
+    },
+    {
+        "id": 179,
+        "q": "Seebeckov jav je možné vyjadriť ako",
+        "a": "pohlcovanie alebo vyžarovanie tepla na prechode dvoch rozdielnych polovodičov alebo polovodiča a kovu pretekanom prúdom",
+        "b": "vznik termoelektrického napätia v látke pozdĺž ktorej existuje teplotný gradient",
+        "c": "uvoľňovanie elektrónov z väzieb kryštálovej mriežky silným elektrickým poľom",
+        "correct": "b"
+    },
+    {
+        "id": 180,
+        "q": "Aké hodnoty rezistivity vykazujú pri izbovej teplote extrémne čisté polovodiče?",
+        "a": "vysoké, vysokú vodivosť",
+        "b": "vysoké, nízku vodivosť",
+        "c": "nízke, vysokú vodivosť",
+        "correct": "b"
+    },
+    {
+        "id": 181,
+        "q": "Ohyb energetických hladín na Schottkyho prechode závisí",
+        "a": "množstva voľných elektrónov",
+        "b": "od výstupných prác elektrónov",
+        "c": "od teploty",
+        "correct": "b"
+    },
+    {
+        "id": 182,
+        "q": "Majoritnými nosičmi náboja v polovodičoch typu N sú",
+        "a": "elektróny aj diery, zúčastňujúce sa na vodivosti približne rovnakou mierou",
+        "b": "elektróny",
+        "c": "diery",
+        "correct": "b"
+    },
+    {
+        "id": 183,
+        "q": "Ktoré tvrdenie je správne",
+        "a": "pohyblivosť elektrónov je rovnaká ako pohyblivosť dier",
+        "b": "pohyblivosť elektrónov je menšia ako pohyblivosť dier",
+        "c": "pohyblivosť elektrónov môže byť aj vyše rádovo väčšia ako pohyblivosť dier",
+        "correct": "c"
+    },
+    {
+        "id": 184,
+        "q": "Elektrónový prúd v polovodiči tečie voči dierovému prúdu",
+        "a": "rovnakým smerom",
+        "b": "smer závisí od typu polovodiča",
+        "c": "opačným smerom",
+        "correct": "c"
+    },
+    {
+        "id": 185,
+        "q": "Ak je prechod PN zapojený v závernom smere,",
+        "a": "obvodom prechádza prúd zapríčinený pohybom majoritných nosičov náboja",
+        "b": "obvodom prechádza veľmi malý prúd tvorený iba menšinovými voľnými nosičmi náboja",
+        "c": "obvodom prechádza veľmi veľký prúd",
+        "correct": "b"
+    },
+    {
+        "id": 186,
+        "q": "Polovodiče, v ktorých sa uvoľňujú elektróny ionizáciou donorov, sú nazývané",
+        "a": "polovodiče typu N",
+        "b": "vlastné polovodiče",
+        "c": "polovodiče typu P",
+        "correct": "a"
+    },
+    {
+        "id": 187,
+        "q": "Účinnosť čistenia monokryštálu zónovou rafináciou sa zvyšuje",
+        "a": "počtom prechodov zóny",
+        "b": "použitím kyslíkovej atmosféry",
+        "c": "rýchlosťou vyťahovania zárodku z taveniny",
+        "correct": "a"
+    },
+    {
+        "id": 188,
+        "q": "V prípade, že sa minimum vodivostného pásma a maximum valenčného pásma nachádza pri rovnakej hybnosti elektrónu, budeme polovodič nazývať",
+        "a": "priamy",
+        "b": "intrinzický",
+        "c": "nepriamy",
+        "correct": "a"
+    },
+    {
+        "id": 189,
+        "q": "Seebeckov jav je používaný napríklad",
+        "a": "na priamu premenu tepelnej energie na elektrickú",
+        "b": "na stabilizáciu prúdu",
+        "c": "k realizácii polovodičových chladiacich článkov",
+        "correct": "a"
+    },
+    {
+        "id": 190,
+        "q": "Pohybom dier v polovodiči vzniká takzvaný dierový prúd. Vodivosť spôsobená dierami sa nazýva",
+        "a": "vodivosť typu N",
+        "b": "vodivosť typu PIN",
+        "c": "dierová vodivosť",
+        "correct": "c"
+    },
+    {
+        "id": 191,
+        "q": "Termoelektrické napätie pripadajúce na jednotkový rozdiel teploty sa nazýva",
+        "a": "Boltzmannova konštanta",
+        "b": "Seebeckov koeficient",
+        "c": "Hallova konštanta",
+        "correct": "b"
+    },
+    {
+        "id": 192,
+        "q": "Ktorá je pracovná oblasť polovodičov?",
+        "a": "oblasť slabej ionizácie prímesí",
+        "b": "oblasť plnej ionizácie prímesí",
+        "c": "oblasť vlastnej vodivosti polovodiča",
+        "correct": "b"
+    },
+    {
+        "id": 193,
+        "q": "Polovodičové diódy využívajú",
+        "a": "tri priechody PN",
+        "b": "dva priechody PN",
+        "c": "jeden priechod PN",
+        "correct": "c"
+    },
+    {
+        "id": 194,
+        "q": "V intrinzickom (vlastnom) polovodiči platí, že",
+        "a": "koncentrácia dier je rovná koncentrácii voľných elektrónov",
+        "b": "koncentrácia dier je omnoho väčšia ako koncentrácia voľných elektrónov",
+        "c": "koncentrácia voľných elektrónov je omnoho väčšia ako koncentrácia dier",
+        "correct": "a"
+    },
+    {
+        "id": 195,
+        "q": "Na to, aby nosiče náboja vstrekované emitorovým prechodom do bázy rekombinovali skôr, než dosiahnu kolektorový prechod tranzistora, musí byť",
+        "a": "vrstva bázy dostatočne hrubá",
+        "b": "vrstva bázy dostatočne tenká",
+        "c": "vrstva kolektora dostatočne tenká",
+        "correct": "b"
+    },
+    {
+        "id": 196,
+        "q": "Ideálny vlastný (intrinzický) polovodič",
+        "a": "má rovnomernú koncentráciu prímesí",
+        "b": "neobsahuje žiadne poruchy kryštálovej mriežky",
+        "c": "je dotovaný prímesami",
+        "correct": "b"
+    },
+    {
+        "id": 197,
+        "q": "Magnetorezistenčný (Gaussov) jav je",
+        "a": "závislosť rezistivity polovodičov od indukcie MG poľa kolmého na vektor prúdovej hustoty",
+        "b": "závislosť rezistivity polovodičov od teploty",
+        "c": "závislosť rezistivity polovodičov od prúdovej hustoty",
+        "correct": "a"
+    },
+    {
+        "id": 198,
+        "q": "U kremíkových monokryštálov sa kvôli vysokej reaktivite používa",
+        "a": "argónová alebo vákuová atmosféra",
+        "b": "kyslíková alebo dusíková atmosféra",
+        "c": "chlórová alebo vodíková atmosféra",
+        "correct": "a"
+    },
+    {
+        "id": 199,
+        "q": "Princíp Zónovej rafinácie spočíva",
+        "a": "vo vyťahovaní zárodku monokryštálu z taveniny",
+        "b": "v pohybe roztavenej zóny pozdĺž ingotu jedným smerom",
+        "c": "v bombardovaní monokryštálu vysokoenergetickými časticami",
+        "correct": "b"
+    },
+    {
+        "id": 200,
+        "q": "Vnútorný fotoelektrický jav možno definovať ako",
+        "a": "absorpciu energie dopadajúceho žiarenia voľnými nosičmi náboja kryštálu polovodiča",
+        "b": "emisiu fotónov v dôsledku dopadajúcich voľných nosičov náboja",
+        "c": "uvoľnenie elektrónov látky z valenčného do vodivostného pásma v dôsledku jej ožiarenia",
+        "correct": "c"
+    },
+    {
+        "id": 201,
+        "q": "Klasickú zliatinovú legovaciu metódu je možné charakterizovať ako",
+        "a": "zatavenie dotovacieho materiálu na polovodičovej platničke, čím vznikne PN priechod",
+        "b": "vytváranie tenkých vrstiev odparovaním vyhrievaného materiálu vo vysokom vákuu",
+        "c": "dodávanie iónov, ktoré sú potrebné na rozprašovanie terčíkového materiálu z iónového zdroja",
+        "correct": "a"
+    },
+    {
+        "id": 202,
+        "q": "Príčinou usmerňujúceho javu na PN prechode sú",
+        "a": "majoritné nosiče náboja",
+        "b": "minoritné nosiče náboja",
+        "c": "kladné a záporné Ióny",
+        "correct": "b"
+    },
+    {
+        "id": 203,
+        "q": "Difúzia vedie k",
+        "a": "vyrovnaniu merných hmotností",
+        "b": "vyrovnaniu koncentrácií a/alebo teplôt",
+        "c": "zmene hustoty bázového prúdu a zosilneniu",
+        "correct": "b"
+    },
+    {
+        "id": 204,
+        "q": "Ak je segregačný koeficient nečistoty v polovodiči menší ako 1, potom",
+        "a": "väčšina prímesí ostáva v kvapalnej fáze",
+        "b": "prímesi v monokryštále polovodiča sa vo vzorke rozdelia homogénne",
+        "c": "koniec vzorky čistejší ako jeho ostatná časť",
+        "correct": "a"
+    },
+    {
+        "id": 205,
+        "q": "Vonkajší fotoelektrický jav možno definovať ako",
+        "a": "emisiu fotónov v dôsledku dopadajúcich voľných nosičov náboja",
+        "b": "absorpciu energie dopadajúceho žiarenia voľnými nosičmi náboja kryštálu polovodiča",
+        "c": "výstup elektrónov z látky v dôsledku jej ožiarenia",
+        "correct": "c"
+    },
+    {
+        "id": 206,
+        "q": "Fotoelektrický jav možno definovať ako",
+        "a": "emisiu fotónov v dôsledku dopadajúcich voľných nosičov náboja",
+        "b": "uvoľňovanie nosičov náboja pohltením energetického kvanta dopadajúceho žiarenia",
+        "c": "emisiu fotónov v dôsledku dopadajúcich viazaných nosičov náboja",
+        "correct": "b"
+    },
+    {
+        "id": 207,
+        "q": "Vákuové naparovanie je",
+        "a": "fyzikálna metóda depozície tenkých vrstiev",
+        "b": "fyzikálna metóda depozície polymérnych vrstiev",
+        "c": "fyzikálna metóda depozície hrubých vrstiev",
+        "correct": "a"
+    },
+    {
+        "id": 208,
+        "q": "Cieľom technológie výroby monokryštálov je dosiahnutie",
+        "a": "čo najväčších monokryštálov s izotópnou kryštalografickou orientáciou",
+        "b": "čo najväčších monokryštálov s maximálnou čistotou bez porúch s definovanou kryštalografickou orientáciou",
+        "c": "čo najmenšej zrnitosti materiálu, ktorá sa však dosahuje len použitím veľmi nízkych teplôt",
+        "correct": "b"
+    },
+    {
+        "id": 209,
+        "q": "Poruchy kryštálovej mriežky polovodičových súčiastok dobu života minoritných nosičov náboja",
+        "a": "skracujú",
+        "b": "neovplyvňujú",
+        "c": "predlžujú",
+        "correct": "a"
+    },
+    {
+        "id": 210,
+        "q": "Podstata zosilnenia tranzistora spočíva v tom, že majoritné nosiče náboja, ktoré sú do bázy vstrekované malým emitorovým napätím,",
+        "a": "sa stávajú minoritnými nosičmi a pohybujú sa ku kolektoru prevažne difúziou",
+        "b": "sa stávajú majoritnými nosičmi a pohybujú sa ku kolektoru prevažne driftovaním",
+        "c": "vplyvom vysokého segregačného koeficientu začnú anihilovať s minoritnými nosičmi náboja",
+        "correct": "a"
+    },
+    {
+        "id": 211,
+        "q": "Epitaxia je spôsob vytvárania monokryštalických tenkých vrstiev z",
+        "a": "plynnej alebo kvapalnej fázy na monokryštálových podložkách",
+        "b": "taveniny skla na monokryštálových podložkách",
+        "c": "tuhej fázy na monokryštálových podložkách",
+        "correct": "a"
+    },
+    {
+        "id": 212,
+        "q": "Hrúbku hradlovej vrstvy (ochudobnená oblasť) PN priechodu",
+        "a": "možno ovládať vonkajším elektrickým poľom",
+        "b": "nemožno ovládať tepelným prúdom",
+        "c": "nemožno ovládať pretekajúcim prúdom",
+        "correct": "b"
+    },
+    {
+        "id": 213,
+        "q": "Pri výrobe monokryštálu vyťahovaním z taveniny",
+        "a": "zárodok kryštálu rotuje, ale tavenina je bez pohybu",
+        "b": "rotuje zárodok kryštálu v smere rotácie taveniny",
+        "c": "rotuje zárodok kryštálu proti smeru rotácie taveniny",
+        "correct": "c"
+    },
+    {
+        "id": 214,
+        "q": "Difúzny prúd",
+        "a": "nie je nikdy sprevádzaný driftovým prúdom",
+        "b": "je vždy sprevádzaný ohmickým (driftovým) prúdom",
+        "c": "je identický pojem ako driftový prúd",
+        "correct": "b"
+    },
+    {
+        "id": 215,
+        "q": "Epitaxia z plynnej fázy využíva transportné a iné chemické reakcie pri",
+        "a": "podtlaku",
+        "b": "vysokom tlaku",
+        "c": "atmosférickom tlaku",
+        "correct": "c"
+    },
+    {
+        "id": 216,
+        "q": "Ak Wk je menšie ako Wp, na styku kov - polovodič P,",
+        "a": "ohmický kontakt",
+        "b": "vznikne PN prechod",
+        "c": "antihradlová vrstva",
+        "correct": "a"
+    },
+    {
+        "id": 217,
+        "q": "Katórové naprašovanie je realizované",
+        "a": "v chlórovej atmosfére pri vysokom tlaku, a nízkom napätí a nízkej energii častíc",
+        "b": "v inertnej atmosfére pri nízkom tlaku, vysokom napätí a vysokej energii častíc",
+        "c": "v inertnej atmosfére pri vysokom tlaku vysokom napätí a vysokej energii častíc",
+        "correct": "b"
+    },
+    {
+        "id": 218,
+        "q": "V okolí PN priechodu bez prítomnosti vonkajšieho elektrického poľa sa nachádza",
+        "a": "vrstva zakázaných Fermiho energií",
+        "b": "vrstva ochudobnená o voľné nosiče náboja",
+        "c": "vrstva obohatená o voľné nosiče náboja",
+        "correct": "b"
+    },
+    {
+        "id": 219,
+        "q": "Proces výroby monokryštálu Czochralského metódou prebieha v",
+        "a": "intrinzickej atmosfére vlastného polovodiča",
+        "b": "inertnej atmosfére alebo pod ochrannou taveninou vo vákuovej alebo tlakovej nádobe",
+        "c": "inertnej atmosfére s vysokou koncentráciou SiO2",
+        "correct": "b"
+    },
+    {
+        "id": 220,
+        "q": "Výhodou iónovej implantácie je",
+        "a": "umiestnenie všetkých vývodov v jednej rovine",
+        "b": "nízka cena použitej technológie",
+        "c": "možnosť prenikania iónov cez vrstvu SiO2",
+        "correct": "c"
+    },
+    {
+        "id": 221,
+        "q": "Objemové monokryštály sa po vyrobení členia na plátky, takzvané",
+        "a": "wafle",
+        "b": "buffre",
+        "c": "wafre",
+        "correct": "c"
+    },
+    {
+        "id": 222,
+        "q": "Povrchová koncentrácia dopujúcich atómov zabudovaných pomocou difúznej technológie závisí na",
+        "a": "intenzite elektrického poľa a stratového činiteľa dopujúcej látky",
+        "b": "čistote a rovinnosti substrátu, ako aj na izolačných vlastnostiach",
+        "c": "type, teplote a tlaku dopantov a na teplote substrátu",
+        "correct": "c"
+    },
+    {
+        "id": 223,
+        "q": "Efektívna hmotnosť elektrónov a dier je",
+        "a": "rýchlosť vztiahnutá na intenzitu elektrického poľa",
+        "b": "pomer hmotnosti voľných nosičov náboja a náboja elektrónu",
+        "c": "koeficient úmernosti medzi vonkajšou silou pôsobiacou na časticu a jej stredným zrýchlením",
+        "correct": "c"
+    },
+    {
+        "id": 224,
+        "q": "Molekulárna epitaxia je",
+        "a": "vytváranie veľmi tenkých viaczložkových vrstiev naparovaním zväzkami atómov alebo molekúl pri veľmi vysokom tlaku pracovnej atmosféry",
+        "b": "ultravákuové vytváranie veľmi tenkých viaczložkových vrstiev naparovaním zväzkami atómov alebo molekúl",
+        "c": "depozícia vrstvy rozdielneho zloženia ako substrát",
+        "correct": "b"
+    },
+    {
+        "id": 225,
+        "q": "Termická oxidácia je",
+        "a": "parazitný rast oxidu kremíka pri tvorbe polovodičových vrstiev",
+        "b": "technológia vytvárania vrstvy natívneho oxidu kremíka",
+        "c": "fyzikálna metóda depozície oxid-nitridových vrstiev",
+        "correct": "b"
+    },
+    {
+        "id": 226,
+        "q": "Zenerov jav sa uskutočňuje",
+        "a": "tunelovaním elektrónov",
+        "b": "tunelovaním viazaných iónov",
+        "c": "tunelovaním prímesových atómov",
+        "correct": "a"
+    },
+    {
+        "id": 227,
+        "q": "Výhodou epitaxie je",
+        "a": "možnosť plynulo meniť koncentráciu donorových alebo akceptorových prímesí",
+        "b": "možnosť plynulo meniť hĺbku leptania materiálu polovodiča",
+        "c": "vysoká rýchlosť vytvárania vysokočistých monokryštálov",
+        "correct": "a"
+    },
+    {
+        "id": 228,
+        "q": "Epitaxia je",
+        "a": "rast monokryštalickej polovodičovej vrstvy na monokryštalickej podložke",
+        "b": "spôsob odstraňovania vrstiev substraktívnou metódou",
+        "c": "metóda výroby monokryštalických ingotov",
+        "correct": "a"
+    },
+    {
+        "id": 229,
+        "q": "Veličina, ktorá je definovaná ako rýchlosť elektrónov vztiahnutá k intenzite elektrického poľa sa nazýva",
+        "a": "pohyblivosť elektrónov",
+        "b": "difúzne napätie",
+        "c": "kontaktný potenciál",
+        "correct": "a"
+    },
+    {
+        "id": 230,
+        "q": "Supravodivosť je pokles rezistivity niektorých kovov a zliatin pri teplote",
+        "a": "blízkej 0°C",
+        "b": "nad 273,15°C",
+        "c": "podkritickej pre daný materiál",
+        "correct": "c"
+    },
+    {
+        "id": 231,
+        "q": "Nosičmi náboja v supravodivom stave sú",
+        "a": "Schrieferove páry",
+        "b": "Bardeenove páry",
+        "c": "Cooperove páry",
+        "correct": "c"
+    },
+    {
+        "id": 232,
+        "q": "Na základe pásmovej štruktúry materiály rozlišujeme ako",
+        "a": "vodiče a nevodiče",
+        "b": "polovodivé, vodivé a supravodivé",
+        "c": "vodiče, polovodiče a izolanty",
+        "correct": "c"
+    },
+    {
+        "id": 233,
+        "q": "Diamagnetické látky majú magnetickú susceptibilitu k",
+        "a": "k < 0",
+        "b": "k > 0",
+        "c": "k = 0",
+        "correct": "a"
+    },
+    {
+        "id": 234,
+        "q": "Ak je šírka zakázaného pásma materiálu Wz > 3eV, hovoríme o",
+        "a": "polovodičoch",
+        "b": "izolantoch",
+        "c": "vodičoch",
+        "correct": "b"
+    },
+    {
+        "id": 235,
+        "q": "Relatívna permeabilita μr paramagnetických materiálov je",
+        "a": "μr > 1",
+        "b": "μr < 1",
+        "c": "μr = 0",
+        "correct": "a"
+    },
+    {
+        "id": 236,
+        "q": "Medzi hlavné materiálové charakteristiky magnetických materiálov patrí",
+        "a": "magnetická susceptibilita, resp. relatívna permeabilita",
+        "b": "relatívna permitivita",
+        "c": "merná elektrická vodivosť",
+        "correct": "a"
+    },
+    {
+        "id": 237,
+        "q": "Hranicou bezpečnej vlhkosti pre elektroizolačné systémy, nad ktorou dochádza k prudkým zmenám vlastností izolantu, je",
+        "a": "50 % vlhkosť",
+        "b": "70 % vlhkosť",
+        "c": "60 % vlhkosť",
+        "correct": "c"
+    },
+    {
+        "id": 238,
+        "q": "V prípade kvapalných izolantov existuje oblasť nesamostatnej vodivosti",
+        "a": "v oblasti nárazovej ionizácie",
+        "b": "v silných elektrických poliach",
+        "c": "slabých elektrických poliach",
+        "correct": "c"
+    },
+    {
+        "id": 239,
+        "q": "Magnetostrikcia je",
+        "a": "zmena vodivých vlastností telesa z magnetického materiálu po jeho vložení do magnetického poľa",
+        "b": "zmena skupenstva telesa z magnetického materiálu po jeho vložení do magnetického poľa",
+        "c": "zmena geometrických rozmerov telesa z magnetického materiálu po jeho vložení do magnetického poľa",
+        "correct": "c"
+    },
+    {
+        "id": 240,
+        "q": "Curieho teplota je teplota, ktorej prekročením sa magnetické materiály stávajú",
+        "a": "feromagnetickými",
+        "b": "paramagnetickými",
+        "c": "diamagnetickými",
+        "correct": "b"
+    },
+    {
+        "id": 241,
+        "q": "Medzi paramagnetické materiály patria",
+        "a": "zlato a striebro",
+        "b": "hliník a platina",
+        "c": "oxidy železa",
+        "correct": "b"
+    },
+    {
+        "id": 242,
+        "q": "Polarizačná zložka dielektrických strát existuje pri pôsobení",
+        "a": "jednosmerného i striedavého napätia",
+        "b": "jednosmerného napätia",
+        "c": "striedavého napätia v polárnych dielektrikách",
+        "correct": "c"
+    },
+    {
+        "id": 243,
+        "q": "Teplotnú závislosť u feromagnetík vyjadruje",
+        "a": "Curieho - Weissov zákon",
+        "b": "Fickov zákon",
+        "c": "Faradayov zákon",
+        "correct": "a"
+    },
+    {
+        "id": 244,
+        "q": "Veľkosť relatívnej permitivity závisí od",
+        "a": "frekvencie, kvality vyhotovenia napájacích obvodov a kontaktného odporu",
+        "b": "teploty, frekvencie, kvality vyhotovenia napájacích obvodov",
+        "c": "charakteru polarizačných procesov, teploty, frekvencie",
+        "correct": "c"
+    },
+    {
+        "id": 245,
+        "q": "Curieho teplota je teplota, pri ktorej",
+        "a": "sa dosahuje supravodivosť",
+        "b": "dochádza k zmene magnetickej orientácie materiálu",
+        "c": "sa magnetické materiály stávajú paramagnetickými",
+        "correct": "c"
+    },
+    {
+        "id": 246,
+        "q": "Magnetizačná krivka pozostáva z",
+        "a": "vstupnej charakteristiky a krivky poslednej magnetizácie",
+        "b": "zaťažovacej krivky a prechodovej charakteristiky",
+        "c": "krivky prvotnej magnetizácie a hysteréznej slučky",
+        "correct": "c"
+    },
+    {
+        "id": 247,
+        "q": "Magneticky tvrdé materiály majú",
+        "a": "Hc menšie ako 800 A/m a je ich ťažké zmagnetizovať",
+        "b": "Hc väčšia ako 1 500 A/m a je ich ťažké zmagnetizovať",
+        "c": "Hc menšie ako 1 500 A/m a možno ich ľahko zmagnetizovať aj odmagnetizovať",
+        "correct": "b"
+    },
+    {
+        "id": 248,
+        "q": "Nosičmi náboja v prípade reálnych izolantov sú",
+        "a": "voľné ióny (kladné aj záporné) a voľné elektróny",
+        "b": "iba voľné elektróny",
+        "c": "voľné ióny (len záporné) a voľné elektróny",
+        "correct": "a"
+    },
+    {
+        "id": 249,
+        "q": "Polarizácia dielektrických materiálov je využívaná pre konštrukciu",
+        "a": "prístrojov pre meranie dielektrických strát izolantov",
+        "b": "kondenzátorov",
+        "c": "kondenzátorov a indukčných tlmiviek",
+        "correct": "b"
+    },
+    {
+        "id": 250,
+        "q": "Vložením paramagnetického materiálu do magnetického poľa sa toto pole",
+        "a": "zosilňuje",
+        "b": "oslabuje",
+        "c": "neovplyvňuje",
+        "correct": "a"
+    },
+    {
+        "id": 251,
+        "q": "V polárnych kvapalných izolantoch sa vyskytujú straty",
+        "a": "iba vodivostné",
+        "b": "vodivostné a polarizačné",
+        "c": "iba polarizačné",
+        "correct": "b"
+    },
+    {
+        "id": 252,
+        "q": "Nenulová magnetizácia i bez prítomnosti vonkajšieho magnetického poľa sa nazýva",
+        "a": "diamagnetizmus",
+        "b": "paramagnetizmus",
+        "c": "spontánny magnetizmus",
+        "correct": "c"
+    },
+    {
+        "id": 253,
+        "q": "Paramagnetické látky majú magnetickú susceptibilitu k",
+        "a": "k > 0",
+        "b": "k < 0",
+        "c": "k = 0",
+        "correct": "a"
+    },
+    {
+        "id": 254,
+        "q": "Polarizačné dielektrické straty sú zapríčinené",
+        "a": "oneskorovaním pohybu nosičov náboja prímesí za zmenami intenzity elektrického poľa",
+        "b": "oneskorovaním pohybu voľných elektrických nábojov za zmenami intenzity elektrického poľa",
+        "c": "oneskorovaním pohybu viazaných elektrických nábojov za zmenami intenzity elektrického poľa",
+        "correct": "c"
+    },
+    {
+        "id": 255,
+        "q": "Curieho zákon vyjadruje vplyv",
+        "a": "remanencie na magnetizáciu paramagnetík",
+        "b": "teploty na magnetizáciu paramagnetík",
+        "c": "magnetickej indukcie na magnetizáciu paramagnetík",
+        "correct": "b"
+    },
+    {
+        "id": 256,
+        "q": "Pre ktoré dve látky je typická magnetická susceptibilita k > 0",
+        "a": "diamagnetické a paramagnetické",
+        "b": "feromagnetické a ferimagnetické",
+        "c": "feromagnetické a paramagnetické",
+        "correct": "c"
+    },
+    {
+        "id": 257,
+        "q": "Ionizačná krivka sa používa na",
+        "a": "určenie stupňa polarizácie izolantu",
+        "b": "posúdenie kvality izolácie elektrických strojov",
+        "c": "stanovenie odolnosti voči ionizácii izolantu",
+        "correct": "b"
+    },
+    {
+        "id": 258,
+        "q": "Dielektrické straty izolantov predstavujú elektrickú energiu, ktorá",
+        "a": "sa prejavuje zmenou dielektrických vlastností",
+        "b": "sa spotrebuje na kompenzáciu polarizačných pochodov pri vlastnej rezonančnej frekvencii",
+        "c": "sa za jednotku času premení na iný druh energie (teplo)",
+        "correct": "c"
+    },
+    {
+        "id": 259,
+        "q": "Curieho teplota je teplota typická pre",
+        "a": "feroelektrické a feromagnetické látky",
+        "b": "nepolárne izolanty",
+        "c": "diamagnetické látky",
+        "correct": "a"
+    },
+    {
+        "id": 260,
+        "q": "V slabých elektrických poliach sú u reálnych izolantov voľnými nosičmi nábojov spravidla",
+        "a": "voľné elektróny vznikajúce disociáciou prímesí a nečistôt",
+        "b": "voľné ióny, vznikajúce disociáciou, resp. aktiváciou častíc prímesí a nečistôt",
+        "c": "voľné nosiče nábojov neexistujú",
+        "correct": "b"
+    },
+    {
+        "id": 261,
+        "q": "Polarizácia dielektrika z makroskopického hľadiska závisí na",
+        "a": "dipólovom momente a relatívnej permitivite",
+        "b": "dipólovom momente a objeme dielektrika",
+        "c": "veľkosti elektrického poľa",
+        "correct": "b"
+    },
+    {
+        "id": 262,
+        "q": "Straty v magnetických materiáloch vznikajú",
+        "a": "v dôsledku nesprávneho použitia",
+        "b": "iba pri Curieho teplote",
+        "c": "pri procese premagnetovania magnetických materiálov v striedavom poli",
+        "correct": "c"
+    },
+    {
+        "id": 263,
+        "q": "V dipólových kvapalných izolantoch sa vyskytujú",
+        "a": "vodivostné a polarizačné dielektrické straty",
+        "b": "iba vodivostné dielektrické straty",
+        "c": "iba polarizačné dielektrické straty",
+        "correct": "a"
+    },
+    {
+        "id": 264,
+        "q": "Ktorej technológii odpovedá výroba feritov, kedy sa postupne namiešajú namleté práškové suroviny, ktoré sa lisujú a vypaľujú?",
+        "a": "hrubovrstvovej technológii",
+        "b": "technológiám výroby keramických materiálov",
+        "c": "planárnej technológii",
+        "correct": "b"
+    },
+    {
+        "id": 265,
+        "q": "Polarizácia ktorého druhu spočíva v posuve rovnakého množstva kladných a záporných pružne viazaných nábojov opačnými smermi",
+        "a": "spontánna",
+        "b": "pružná",
+        "c": "relaxačná",
+        "correct": "b"
+    },
+    {
+        "id": 266,
+        "q": "Medzi diamagnetické materiály patria",
+        "a": "hliník, chróm",
+        "b": "kremík, germánium, meď",
+        "c": "oxidy železa",
+        "correct": "b"
+    },
+    {
+        "id": 267,
+        "q": "Ionizačné dielektrické straty vznikajú predovšetkým",
+        "a": "v nepolárnych dielektrikách",
+        "b": "v ionizovaných kvapalinách",
+        "c": "v plynových dutinkách izolantov",
+        "correct": "c"
+    },
+    {
+        "id": 268,
+        "q": "PN priechod je možné vyrobiť napríklad",
+        "a": "epitaxiou",
+        "b": "pásmovým tavením vo vákuu",
+        "c": "pritisnutím polovodiča P na polovodič N v ochrannej atmosfére",
+        "correct": "a"
+    },
+    {
+        "id": 269,
+        "q": "Makroskopická polarizácia vyjadruje",
+        "a": "hustotu elektrických dipólov",
+        "b": "vplyv pôsobenia frekvencie",
+        "c": "vplyv pôsobenia teploty",
+        "correct": "a"
+    },
+    {
+        "id": 270,
+        "q": "Clausius - Mossottiho rovnica platí pre",
+        "a": "elektronegatívne plynné izolanty",
+        "b": "kvapalné a plynné izolanty (nepolárne)",
+        "c": "polárne kvapalné izolanty",
+        "correct": "b"
+    },
+    {
+        "id": 271,
+        "q": "Vzťah medzi izolantom a dielektrikom je nasledovný",
+        "a": "izolant a dielektrikum sú rovnaké označenia toho istého materiálu",
+        "b": "každé dielektrikum je súčasne izolantom, avšak nie každý izolant je dielektrikom",
+        "c": "každý izolant je súčasne dielektrikom, avšak nie každé dielektrikum je izolantom",
+        "correct": "c"
+    },
+    {
+        "id": 272,
+        "q": "Dielektrické materiály sú využívané najmä pre",
+        "a": "izoláciu vodivých častí",
+        "b": "realizáciu dielektrík kondenzátorov",
+        "c": "kompenzáciu dielektrických strát",
+        "correct": "b"
+    },
+    {
+        "id": 273,
+        "q": "Pružná polarizácia predstavuje posunutie viazaného kladného náboja",
+        "a": "v smere elektrického poľa",
+        "b": "nezáleží na smere elektrického poľa",
+        "c": "proti smeru elektrického poľa",
+        "correct": "a"
+    },
+    {
+        "id": 274,
+        "q": "V nepolárnych tuhých izolantoch sa vyskytuje polarizácia",
+        "a": "elektrónová",
+        "b": "elektrónová a dipólová",
+        "c": "spontánna",
+        "correct": "a"
+    },
+    {
+        "id": 275,
+        "q": "Pre feroelektriká je typická",
+        "a": "elektrónová pružná polarizácia",
+        "b": "doménová štruktúra",
+        "c": "iónová relaxačná štruktúra",
+        "correct": "b"
+    },
+    {
+        "id": 276,
+        "q": "V nepolárnych kvapalných izolantoch sa vyskytujú iba",
+        "a": "polarizačné dielektrické straty",
+        "b": "tepelné straty",
+        "c": "vodivostné dielektrické straty",
+        "correct": "c"
+    },
+    {
+        "id": 277,
+        "q": "V jednosmernom i striedavom EP sú straty zapríčinené predovšetkým",
+        "a": "výskytom elektrónov",
+        "b": "elektrickou vodivosťou dielektrika",
+        "c": "polarizáciou dielektrika",
+        "correct": "b"
+    },
+    {
+        "id": 278,
+        "q": "Ak je uhol zmáčavosti menší ako 90°, tuhý izolant má",
+        "a": "nezmáčavý povrch",
+        "b": "zmáčavý povrch",
+        "c": "povrch nevodivý",
+        "correct": "b"
+    },
+    {
+        "id": 279,
+        "q": "Vzácne plyny sú charakteristické tým, že sú",
+        "a": "chemicky nestabilné",
+        "b": "chemicky najreaktívnejšie",
+        "c": "chemicky inertné",
+        "correct": "c"
+    },
+    {
+        "id": 280,
+        "q": "Minoritnými nosičmi náboja v polovodičoch typu N sú",
+        "a": "diery",
+        "b": "elektróny",
+        "c": "elektróny aj diery",
+        "correct": "a"
+    },
+    {
+        "id": 281,
+        "q": "Elektrická pevnosť vzduchu s rastúcou koncentráciou vody",
+        "a": "klesá",
+        "b": "nemení sa",
+        "c": "stúpa",
+        "correct": "a"
+    },
+    {
+        "id": 282,
+        "q": "Hodnota prúdu ideálnej V-A charakteristiky PN priechodu v závernom smere závisí na",
+        "a": "koncentrácii minoritných nosičov náboja",
+        "b": "koncentrácii majoritných nosičov náboja",
+        "c": "kryštalografickej orientácii a hrúbke základového polovodiča",
+        "correct": "a"
+    },
+    {
+        "id": 283,
+        "q": "Kondenzátor je elektronická súčiastka, ktorá slúži na",
+        "a": "usmernenie signálu",
+        "b": "uchovávanie elektrickej energie",
+        "c": "zosilnenie signálu",
+        "correct": "b"
+    },
+    {
+        "id": 284,
+        "q": "PN priechod v závernom smere je charakteristický tým, že",
+        "a": "elektróny sa pohybujú z N do P a diery z P do N",
+        "b": "elektróny sa pohybujú z P do N a diery z N do P (resp. odsúvajú sa od prechodu)",
+        "c": "elektróny sa pohybujú z N do P a diery z N do P",
+        "correct": "b"
+    },
+    {
+        "id": 285,
+        "q": "Diódový jav je",
+        "a": "usmerňujúci jav na PN priechode, keď je pripojené jednosmerné napätie",
+        "b": "usmerňujúci jav na PN priechode, keď je pripojené striedavé napätie",
+        "c": "usmerňujúci jav na P alebo N polovodiči",
+        "correct": "b"
+    },
+    {
+        "id": 286,
+        "q": "Izolanty sú látky, ktorých hlavnou vlastnosťou je",
+        "a": "schopnosť klásť veľký odpor elektrickému prúdu",
+        "b": "schopnosť klásť veľký odpor elektrickému prúdu a magnetickému poľu",
+        "c": "schopnosť indukovať magnetické pole",
+        "correct": "a"
+    },
+    {
+        "id": 287,
+        "q": "Pri Curieho teplote dochádza",
+        "a": "k zániku doménovej štruktúry",
+        "b": "k vzniku elektrónových dipólov",
+        "c": "k neutralizácii elektrických nábojov",
+        "correct": "a"
+    },
+    {
+        "id": 288,
+        "q": "Vodivostné pásmo sa v pásmovom modeli tuhej látky nachádza",
+        "a": "pod zakázaným pásmom",
+        "b": "pod valenčným pásmom",
+        "c": "nad zakázaným pásmom",
+        "correct": "c"
+    },
+    {
+        "id": 289,
+        "q": "V striedavom EP sú straty zapríčinené okrem vodivosti aj",
+        "a": "polarizáciou",
+        "b": "výskytom elektrónov",
+        "c": "výskytom iónov",
+        "correct": "a"
+    },
+    {
+        "id": 290,
+        "q": "PN priechod využívajú kapacitné diódy",
+        "a": "v závernom smere",
+        "b": "v priepustnom smere",
+        "c": "v móde lavínového prierazu",
+        "correct": "a"
+    },
+    {
+        "id": 291,
+        "q": "Hallov jav sa prejavuje",
+        "a": "vznikom Hallovho napätia na vodiči v smere toku prúdu",
+        "b": "vytvorením magnetickej indukcie v smere toku prúdu",
+        "c": "vznikom Hallovho napätia na vodiči v smere kolmom na smer prúdu a smer magnetického poľa",
+        "correct": "c"
+    },
+    {
+        "id": 292,
+        "q": "Polárne tuhé dielektriká",
+        "a": "nie sú vhodné pre vysoké frekvencie",
+        "b": "sú vhodné pre všestranné použitie",
+        "c": "sú vhodné pre vysoké frekvencie",
+        "correct": "a"
+    },
+    {
+        "id": 293,
+        "q": "PN priechod v priepustnom smere vznikne, ak pripojíme",
+        "a": "striedavé napätie",
+        "b": "k polovodiču typu N záporný pól zdroja a k polovodiču typu P kladný pól zdroja",
+        "c": "k polovodiču typu P záporný pól zdroja a k polovodiču typu N kladný pól zdroja",
+        "correct": "b"
+    },
+    {
+        "id": 294,
+        "q": "Podľa Coulombovho zákona vyjadruje relatívna permitivita vplyv prostredia na veľkosť sily pôsobiacej medzi",
+        "a": "dipólovými doménami",
+        "b": "doménami",
+        "c": "nábojmi",
+        "correct": "c"
+    },
+    {
+        "id": 295,
+        "q": "Relaxačná polarizácia je",
+        "a": "rýchleho priebehu",
+        "b": "bezstratová",
+        "c": "pomalého priebehu",
+        "correct": "c"
+    },
+    {
+        "id": 296,
+        "q": "S rastom teploty u feroelektrík relatívna permitivita",
+        "a": "po dosiahnutie Curieho teploty lineárne klesá",
+        "b": "lineárne klesá",
+        "c": "najprv stúpa a po dosiahnutí Curieho teploty klesá",
+        "correct": "c"
+    },
+    {
+        "id": 297,
+        "q": "Majoritnými nosičmi náboja v prímesovom polovodiči typu P sú",
+        "a": "diery",
+        "b": "voľné ióny",
+        "c": "elektróny",
+        "correct": "a"
+    },
+    {
+        "id": 298,
+        "q": "Činiteľ dielektrických strát je daný",
+        "a": "súčtom činnej a jalovej zložky prúdu",
+        "b": "rozdielom činnej a jalovej zložky prúdu",
+        "c": "pomerom činnej a jalovej zložky prúdu (tg delta)",
+        "correct": "c"
+    },
+    {
+        "id": 299,
+        "q": "Difúzia je opísaná",
+        "a": "Fickovymi zákonmi",
+        "b": "Schrödingerovou rovnicou",
+        "c": "Ohmovym zákonom",
+        "correct": "a"
+    },
+    {
+        "id": 300,
+        "q": "Spontánna polarizácia",
+        "a": "je bezstratová",
+        "b": "je stratová",
+        "c": "nezávisí na teplote",
+        "correct": "b"
+    },
+    {
+        "id": 301,
+        "q": "PN priechod v závernom smere vznikne, ak zapojíme",
+        "a": "k polovodiču typu N záporný pól zdroja a k polovodiču typu P kladný pól zdroja",
+        "b": "k polovodiču typu P záporný pól zdroja a k polovodiču typu N kladný pól zdroja",
+        "c": "striedavé napätie",
+        "correct": "b"
+    },
+    {
+        "id": 302,
+        "q": "Zenerove diódy sú využívané na",
+        "a": "stabilizáciu napätia",
+        "b": "zosilňovanie signálov",
+        "c": "usmerňovanie striedavého napätia",
+        "correct": "a"
+    },
+    {
+        "id": 303,
+        "q": "Coehnovo pravidlo hovorí, že koloidné častice sa budú nabíjať",
+        "a": "kladne, ak ich vodivosť je menšia ako vodivosť kvapalného izolantu",
+        "b": "záporne, ak ich vodivosť je väčšia ako vodivosť kvapalného izolantu",
+        "c": "kladne, ak ich permitivita je väčšia ako permitivita kvapalného izolantu",
+        "correct": "c"
+    },
+    {
+        "id": 304,
+        "q": "Teplota vyčerpania prímesí polovodičov je",
+        "a": "teplota, pri ktorej sa začínajú na vodivosti podieľať aj lokalizované elektróny a diery vlastného polovodiča",
+        "b": "teplota, pri ktorej dochádza k prudkému zníženiu častíc prímesí",
+        "c": "teplota pri ktorej sú všetky prímesi ionizované",
+        "correct": "c"
+    },
+    {
+        "id": 305,
+        "q": "Polovodiče, v ktorých voľné nosiče elektrického náboja vznikajú ionizáciou akceptorových prímesí, sú nazývané",
+        "a": "polovodiče typu P",
+        "b": "vlastné polovodiče",
+        "c": "polovodiče typu N",
+        "correct": "a"
+    },
+    {
+        "id": 306,
+        "q": "Činnosť Zenerovej diódy v závernom smere je podmienená",
+        "a": "nízkym napätím",
+        "b": "dostatočne úzkou hradlovou vrstvou (pre tunelový jav)",
+        "c": "vysokou teplotou",
+        "correct": "b"
+    },
+    {
+        "id": 307,
+        "q": "Vznik Hallovho napätia je zapríčinený",
+        "a": "rovnomerným rozložením náboja",
+        "b": "nerovnomerným rozložením náboja vplyvom pôsobenia magnetického poľa",
+        "c": "teplotným gradientom",
+        "correct": "b"
+    },
+    {
+        "id": 308,
+        "q": "Diódový jav vzniká za určitých podmienok na styku",
+        "a": "polovodiča s kovom",
+        "b": "kovu a dielektrika",
+        "c": "polovodiča a dielektrika",
+        "correct": "a"
+    },
+    {
+        "id": 309,
+        "q": "Elektrónová polarizácia sa vyskytuje",
+        "a": "iba u polárnych dielektrík",
+        "b": "iba u feroelektrík",
+        "c": "u všetkých dielektrík",
+        "correct": "c"
+    },
+    {
+        "id": 310,
+        "q": "Tranzistor pozostáva",
+        "a": "z 1 PN priechodu",
+        "b": "z 3 PN priechodov",
+        "c": "z 2 PN priechodov",
+        "correct": "c"
+    },
+    {
+        "id": 311,
+        "q": "Pojmom diera je označovaná",
+        "a": "vakancia v štruktúre polovodiča",
+        "b": "uzlový bod v kryštálovej mriežke",
+        "c": "neobsadený stav elektrónom v čiastočne zaplnenom valenčnom pásme polovodiča",
+        "correct": "c"
+    },
+    {
+        "id": 312,
+        "q": "Aby tranzistor pracoval ako zosilňovač, musí byť emitorový priechod zapojený",
+        "a": "v priepustnom smere",
+        "b": "na smere nezáleží",
+        "c": "v závernom smere",
+        "correct": "a"
+    },
+    {
+        "id": 313,
+        "q": "U prímesových polovodičov sa na prenose náboja podieľajú v závislosti na type polovodiča",
+        "a": "ionizované akceptory alebo ionizované donory",
+        "b": "ionizované dipóly",
+        "c": "prevažne elektróny, resp. diery (minoritné a majoritné)",
+        "correct": "c"
+    },
+    {
+        "id": 314,
+        "q": "Typickým znakom planárnej technológie je",
+        "a": "vytvorenie prvkov a ich vývodov v jednej rovine",
+        "b": "možnosť umiestnenia puzdier BGA",
+        "c": "použitie technológie CoB",
+        "correct": "a"
+    },
+    {
+        "id": 315,
+        "q": "Difúznu technológiu je možné charakterizovať ako",
+        "a": "dodávanie iónov",
+        "b": "zatavenie dotovacieho materiálu",
+        "c": "vysokoteplotnú aplikáciu atómov na selektovaný povrch substrátu v plynnom, kvapalnom alebo pevnom skupenstve",
+        "correct": "c"
+    },
+    {
+        "id": 316,
+        "q": "Výhodou molekulárnej epitaxie je",
+        "a": "vytváranie monokryštalických ingotov",
+        "b": "mimoriadne presné ovládanie hustoty a zloženia prúdu atómov, resp. molekúl",
+        "c": "technologicky nenáročné",
+        "correct": "b"
+    },
+    {
+        "id": 317,
+        "q": "Elektrónová polarizácia dielektrík je",
+        "a": "pružná",
+        "b": "migračná",
+        "c": "relaxačná",
+        "correct": "a"
+    },
+    {
+        "id": 318,
+        "q": "Dielektrické straty v polárnych izolantoch sú",
+        "a": "vodivostné a polarizačné",
+        "b": "ionizačné",
+        "c": "len vodivostné",
+        "correct": "a"
+    },
+    {
+        "id": 319,
+        "q": "Majoritnými nosičmi náboja v polovodiči typu P sú",
+        "a": "elektróny",
+        "b": "elektróny aj diery",
+        "c": "diery",
+        "correct": "c"
+    },
+    {
+        "id": 320,
+        "q": "Ak Wk je väčšie ako Wp, na styku kov - polovodič P,",
+        "a": "ohmický kontakt",
+        "b": "antihradlová vrstva",
+        "c": "vznikne PN prechod",
+        "correct": "a"
+    },
+    {
+        "id": 321,
+        "q": "Donor je prímes, ktorá",
+        "a": "pôsobí ako eliminátor porúch",
+        "b": "odovzdáva elektrón",
+        "c": "prijíma elektrón",
+        "correct": "b"
+    },
+    {
+        "id": 322,
+        "q": "U nepolárnych izolantov vlastný izolant",
+        "a": "môže disociovať na ióny",
+        "b": "nemôže disociovať na ióny",
+        "c": "obsahuje voľné nosiče nábojov",
+        "correct": "b"
+    },
+    {
+        "id": 323,
+        "q": "Polovodičové súčiastky, v ktorých dochádza k prúdovému zosilneniu sa nazývajú",
+        "a": "diódy",
+        "b": "rezistory",
+        "c": "tranzistory",
+        "correct": "c"
+    },
+    {
+        "id": 324,
+        "q": "Ak Wk je menšie ako Wp, na styku kov - polovodič N,",
+        "a": "antihradlová vrstva",
+        "b": "ohmický kontakt",
+        "c": "vznikne PN prechod",
+        "correct": "b"
+    },
+    {
+        "id": 325,
+        "q": "Tranzistorový jav",
+        "a": "je usmerňujúci jav",
+        "b": "je termomagnetický jav",
+        "c": "zosilňujúci jav v polovodičoch",
+        "correct": "c"
+    },
+    {
+        "id": 326,
+        "q": "Peltierov jav je možné vyjadriť ako",
+        "a": "vznik termoelektrického napätia",
+        "b": "pohlcovanie alebo vyžarovanie tepla na prechode dvoch rozdielnych polovodičov alebo polovodiča a kovu pretekanom prúdom",
+        "c": "uvoľňovanie elektrónov",
+        "correct": "b"
+    },
+    {
+        "id": 327,
+        "q": "V priepustnom smere PN priechodu je orientácia priloženého napätia voči difúznemu napätiu",
+        "a": "protismerná",
+        "b": "zhodná",
+        "c": "nezávislá",
+        "correct": "a"
+    },
+    {
+        "id": 328,
+        "q": "Kontaktný potenciál vzniká",
+        "a": "vodivým spojením dvoch rozličných kovov (alebo polovodičov)",
+        "b": "pripojením zdroja",
+        "c": "vodivým spojením materiálov s rovnakými Seebeckovymi koeficientmi",
+        "correct": "a"
+    },
+    {
+        "id": 329,
+        "q": "Produktom Czochralského metódy výroby monokryštálu je",
+        "a": "ingot",
+        "b": "wafer",
+        "c": "whisker",
+        "correct": "a"
+    },
+    {
+        "id": 330,
+        "q": "Ak je PN priechod polarizovaný v priamom smere,",
+        "a": "šírka hradlovej vrstvy sa zmenšuje",
+        "b": "šírka hradlovej vrstvy sa zväčšuje",
+        "c": "tvar PN priechodu sa vychyľuje",
+        "correct": "a"
+    },
+    {
+        "id": 331,
+        "q": "Pohyblivosť voľných nosičov náboja v polovodiči je definovaná ako",
+        "a": "pomer koncentrácie nosičov a intenzity",
+        "b": "pomer rýchlosti a elektrickej intenzity",
+        "c": "súčin akceptorovej energie a hmotnosti",
+        "correct": "b"
+    },
+    {
+        "id": 332,
+        "q": "Pri výrobe monokryštálu Czochralského metódou používame",
+        "a": "technický kyslík",
+        "b": "vodné roztoky",
+        "c": "inertné plyny alebo vákuum v komore s taveninou",
+        "correct": "c"
+    },
+    {
+        "id": 333,
+        "q": "Dielektrické materiály sú používané pre",
+        "a": "konštrukciu rezistorov",
+        "b": "konštrukciu transformátorov",
+        "c": "konštrukciu kondenzátorov",
+        "correct": "c"
+    },
+    {
+        "id": 334,
+        "q": "Homoepitaxia je",
+        "a": "rast vrstvy rozdielneho zloženia",
+        "b": "rast vrstvy rovnakého zloženia ako substrát",
+        "c": "výroba monokryštálov z kvapalnej fázy",
+        "correct": "b"
+    },
+    {
+        "id": 335,
+        "q": "Základnou črtou planárnej technológie je,",
+        "a": "že je to najjednoduchšia metóda",
+        "b": "že všetky kontakty sú na jednej rovine",
+        "c": "že je fotolitografický proces",
+        "correct": "b"
+    },
+    {
+        "id": 336,
+        "q": "PN priechod je polarizovaný v závernom smere, ak pre minoritné nosiče náboja platí, že",
+        "a": "elektróny aj diery navzájom rekombinujú",
+        "b": "elektróny z polovodiča N smerujú do P a diery z P do N (minoritné)",
+        "c": "elektróny z polovodiča typu P smerujú do polovodiča typu N a zároveň diery z polovodiča typu N smerujú do polovodiča typu P",
+        "correct": "c"
+    },
+    {
+        "id": 337,
+        "q": "Donorom je u kremíkových polovodičov prvok",
+        "a": "z 5. skupiny",
+        "b": "zo 4. skupiny",
+        "c": "z 3. skupiny",
+        "correct": "a"
+    },
+    {
+        "id": 338,
+        "q": "Ako sa zapájajú PN priechody bipolárneho tranzistora?",
+        "a": "oba v závernom",
+        "b": "jeden PN priechod sa zapája v smere priepustnom, druhý v smere závernom",
+        "c": "oba v priepustnom",
+        "correct": "b"
+    },
+    {
+        "id": 339,
+        "q": "Kapacitu PN prechodu využívajú polovodičové prvky",
+        "a": "varikapy",
+        "b": "tranzistory",
+        "c": "termočlánky",
+        "correct": "a"
+    },
+    {
+        "id": 340,
+        "q": "Podmienkou pre vznik tunelového prierazu je",
+        "a": "podkritická šírka hradlovej vrstvy",
+        "b": "minimálna driftová rýchlosť",
+        "c": "minimálna pohyblivosť",
+        "correct": "a"
+    },
+    {
+        "id": 341,
+        "q": "PN priechody sú tvorené napríklad",
+        "a": "zónovou tavbou",
+        "b": "Czochralského metódou",
+        "c": "epitaxnou technológiou",
+        "correct": "c"
+    },
+    {
+        "id": 342,
+        "q": "PN priechod je polarizovaný v priamom smere ak pre majoritné nosiče náboja platí",
+        "a": "elektróny z polovodiča typu N smerujú do polovodiča typu P, a zároveň diery z polovodiča typu P smerujú do polovodiča typu N",
+        "b": "elektróny aj diery rekombinujú",
+        "c": "elektróny z P do N",
+        "correct": "a"
+    },
+    {
+        "id": 343,
+        "q": "Metóda, pri ktorej je zárodok monokryštálu upevnený na ťahacom hriadeli, priložený k tavenine v kremennom tégliku, pomaly vyťahovaný a rotovaný proti smeru rotácie taveniny, sa nazýva",
+        "a": "Bridgemanova metóda",
+        "b": "zónová rafinácia",
+        "c": "Czochralského metóda",
+        "correct": "c"
+    }
+]

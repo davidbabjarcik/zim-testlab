@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <meta charset="UTF-8">
+  <title>ZIM TestLab</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="app">
+
+<!-- HOME -->
+<section data-screen="home">
+  <header>
+    <h1>ZIM TestLab</h1>
+    <button class="icon-btn" onclick="showScreen('settings')">⚙️</button>
+  </header>
+
+  <div class="card action-card ">
+  <div class="action-row primary-actions ">
+    <button class="btn-primary" onclick="startTest()">Náhodný test</button>
+    <button class="btn-secondary" onclick="startWrongTest()" >❌ Test zo zlých otázok</button>
+    <button class="btn-secondary" onclick="startFavoritesTest()">⭐ Test z obľúbených</button>
+  </div>
+
+  <div class="action-row secondary-actions ">
+    <button class="btn-secondary" style="background: rgb(0, 234, 255) ; color: black;"onclick="showWrong()">❌ Zlé otázky</button>
+    <button class="btn-secondary" style="background: rgb(0, 234, 255) ; color: black;" onclick="showFavorites()">⭐ Obľúbené otázky</button>
+</div>
+</div>
+
+
+  <div class="card history-card">
+    <h3 class="history-title">História testov</h3>
+    <ul id="historyList"></ul>
+    <button class="btn-danger" onclick="clearHistory()">Zmazať históriu</button>
+  </div>
+</section>
+
+<!-- TEST -->
+<section data-screen="test" style="display:none">
+  <header class="test-header">
+    <span id="timer">Čas: 30:00</span>
+  </header>
+
+  <div class="card">
+    <div id="question" class="question"></div>
+    <div id="answers" class="answers"></div>
+    <div id="progress"></div>
+
+    <div class="controls">
+      <button class="btn-secondary" onclick="skipQuestion()">Preskočiť</button>
+      <button class="btn-primary" onclick="nextQuestion()">Ďalej</button>
+      <button class="btn-danger" onclick="confirmEndTest()">Ukončiť</button>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEW -->
+<section data-screen="review" style="display:none">
+  <header>
+    <h2>Detail testu</h2>
+    <button class="nav-btn" onclick="showScreen('home')">Domov</button>
+  </header>
+  <div id="reviewContent"></div>
+</section>
+
+<!-- FAVORITES -->
+<section data-screen="favorites" style="display:none">
+  <header>
+    <h2>Obľúbené otázky ⭐</h2>
+    <button class="nav-btn" onclick="showScreen('home')">Domov</button>
+  </header>
+  <div id="favoritesList"></div>
+</section>
+
+<!-- WRONG -->
+<section data-screen="wrong" style="display:none">
+  <header>
+    <h2>Zlé otázky</h2>
+    <button class="nav-btn" onclick="showScreen('home')">Domov</button>
+  </header>
+  <div id="wrongList"></div>
+</section>
+
+<!-- SETTINGS -->
+<section data-screen="settings" style="display:none">
+  <header>
+    <h2>Nastavenia</h2>
+    <button class="nav-btn" onclick="showScreen('home')">Domov</button>
+  </header>
+
+  <div class="card">
+    <span>Vzhľad aplikácie</span>
+    <button onclick="toggleTheme()">🌙 / ☀️</button>
+  </div>
+</section>
+
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>

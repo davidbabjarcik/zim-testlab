@@ -1,0 +1,402 @@
+:root {
+  --bg: #f4f6f8;
+  --card: #ffffff;
+  --primary: #2563eb;
+  --secondary: #16a34a;
+  --danger: #dc2626;
+  --text: #1f2937;
+  --muted: #6b7280;
+}
+
+body.dark {
+  --bg: #0f172a;
+  --card: #1e293b;
+  --text: #e5e7eb;
+  --muted: #94a3b8;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: Inter, system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  width: 100%;
+  max-width: 900px;
+  padding: 24px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.card {
+  background: var(--card);
+  padding: 24px;
+  border-radius: 16px;
+  margin-bottom: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+.question {
+  font-size: 1.2rem;
+  margin-bottom: 16px;
+}
+
+.answers {
+  display: grid;
+  gap: 12px;
+}
+
+.answer {
+  padding: 14px;
+  border-radius: 12px;
+  border: 2px solid #e5e7eb;
+  cursor: pointer;
+}
+
+.answer.correct {
+  border-color: var(--secondary);
+  background: rgba(22,163,74,0.15);
+}
+
+.answer.wrong {
+  border-color: var(--danger);
+  background: rgba(220,38,38,0.15);
+}
+
+.controls {
+  display: flex;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+button {
+  flex: 1;
+  padding: 14px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary { background: var(--primary); color: white; }
+.btn-secondary { background: var(--secondary); color: white; }
+
+.progress {
+  text-align: center;
+  margin-top: 10px;
+  color: var(--muted);
+}
+
+/* ICON BUTTON (nastavenia) */
+.icon-btn {
+  flex: 0;
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  border-radius: 50%;
+  font-size: 18px;
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid rgba(255,255,255,0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.icon-btn:hover {
+  background: rgba(37, 99, 235, 0.15);
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+/* DARK MODE jemnejší border */
+body.dark .icon-btn {
+  border-color: rgba(255,255,255,0.2);
+}
+
+
+/* ===== SETTINGS ===== */
+
+.settings-header {
+  margin-bottom: 12px;
+}
+
+.settings-card {
+  padding: 16px 20px;
+}
+
+/* jeden riadok nastavenia */
+.setting-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.95rem;
+}
+
+/* malé toggle tlačidlo */
+.toggle-btn {
+  flex: 0;
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  background: var(--secondary);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.toggle-btn:hover {
+  opacity: 0.9;
+}
+
+/* nenápadné "Domov" */
+.ghost-btn {
+  flex: 0;
+  padding: 6px 12px;
+  font-size: 0.9rem;
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.ghost-btn:hover {
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+/* ===== TEST HEADER ===== */
+.test-header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.timer-center {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+/* ===== DANGER BUTTON ===== */
+.btn-danger {
+  background: transparent;
+  color: var(--danger);
+  border: 1px solid var(--danger);
+}
+
+.btn-danger:hover {
+  background: rgba(220,38,38,0.15);
+}
+
+/* ===== HISTÓRIA ===== */
+
+.history-card {
+  text-align: center;
+}
+
+.history-title {
+  margin-bottom: 16px;
+}
+
+.history-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px 0;
+}
+
+.history-list li {
+  margin-bottom: 8px;
+  font-size: 0.95rem;
+}
+
+/* červené tlačidlo – deštruktívna akcia */
+.btn-danger {
+  background: transparent;
+  color: var(--danger);
+  border: 1px solid var(--danger);
+}
+
+.btn-danger:hover {
+  background: rgba(220, 38, 38, 0.15);
+}
+
+/* menšie a vycentrované */
+.history-clear-btn {
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+/* ===== REVIEW TEST ===== */
+
+.review-card {
+  border-left: 6px solid transparent;
+}
+
+.review-card.review-correct {
+  border-left-color: var(--secondary);
+}
+
+.review-card.review-wrong {
+  border-left-color: var(--danger);
+}
+
+.review-answer {
+  padding: 6px 10px;
+  border-radius: 6px;
+  margin-bottom: 6px;
+}
+
+.review-answer.correct {
+  background: rgba(22, 163, 74, 0.15);
+  color: var(--secondary);
+  font-weight: 600;
+}
+
+.review-answer.wrong {
+  background: rgba(220, 38, 38, 0.15);
+  color: var(--danger);
+  font-weight: 600;
+}
+
+/* ===== HISTÓRIA ===== */
+
+.history-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.history-info {
+  font-size: 0.95rem;
+}
+
+.history-view-btn {
+  flex: 0;
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  border-radius: 8px;
+}
+
+/* ===== HISTORY BUTTONS ===== */
+
+.history-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.history-info {
+  flex: 1;
+  font-size: 0.9rem;
+}
+
+.history-view-btn {
+  padding: 4px 10px;
+  font-size: 0.8rem;
+}
+
+.history-delete-btn {
+  padding: 4px 10px;
+  font-size: 0.8rem;
+  background: var(--danger);
+  color: white;
+
+}
+
+.fav-btn {
+  background: none;
+  border: none;
+  font-size: 1.4rem;
+  cursor: pointer;
+  margin-left: 8px;
+}
+
+.review-card {
+  margin-bottom: 20px;
+}
+
+.review-answer {
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 6px;
+}
+
+.review-answer.correct {
+  background: #dcfce7;
+  border: 2px solid #22c55e;
+}
+
+.review-answer.wrong {
+  background: #fee2e2;
+  border: 2px solid #ef4444;
+}
+
+.action-card {
+  padding: 24px;
+}
+
+.action-row {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.primary-actions {
+  margin-bottom: 16px;
+}
+
+.btn-ghost {
+  background: transparent;
+  border: 2px dashed rgba(255,255,255,0.3);
+  color: #e5e7eb;
+}
+
+.nav-btn {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: white;
+
+  font-size: 0.9rem;
+  padding: 6px 12px;
+  border-radius: 10px;
+
+  cursor: pointer;
+  white-space: nowrap;
+
+  /* DÔLEŽITÉ */
+  width: auto;
+  flex: 0 0 auto;
+
+  transition: background 0.2s, transform 0.15s;
+}
+
+.nav-btn:hover {
+  background: rgba(255, 255, 255, 0.18);
+  transform: translateY(-1px);
+}
+
+
+

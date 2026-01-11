@@ -1,0 +1,30 @@
+{
+  "name": "zim-testlab",
+  "version": "1.0.0",
+  "description": "ZIM TestLab – offline testovacia aplikácia",
+  "main": "main.js",
+  "author": "Dávid Babjarčík",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^30.5.1",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "sk.tuke.zimtestlab",
+    "productName": "ZIM TestLab",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "public/icon.ico"
+    }
+  }
+}
