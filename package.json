@@ -1,6 +1,6 @@
 {
   "name": "zim-testlab",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ZIM TestLab – offline testovacia aplikácia",
   "main": "main.js",
   "author": "Dávid Babjarčík",

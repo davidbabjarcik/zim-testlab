@@ -191,15 +191,24 @@ function checkAnswer(letter, el) {
   if (letter === q.correct) {
     el.classList.add('correct');
     score++;
+
+    // ✅ AK IDE O TEST ZO ZLÝCH OTÁZOK → ODSTRÁNIŤ
+    if (currentTest.type === 'wrong') {
+      wrongQuestions = wrongQuestions.filter(w => w.id !== q.id);
+      window.api.saveJSON('wrong.json', wrongQuestions);
+    }
+
   } else {
     el.classList.add('wrong');
 
-    if (!wrongQuestions.find(x => x.id === q.id)) {
+    // ❌ PRIDAŤ DO ZLÝCH, LEN AK TAM EŠTE NIE JE
+    if (!wrongQuestions.find(w => w.id === q.id)) {
       wrongQuestions.push(q);
       window.api.saveJSON('wrong.json', wrongQuestions);
     }
   }
 }
+
 
 // =======================
 // NAVIGATION
