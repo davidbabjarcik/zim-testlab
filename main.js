@@ -4,9 +4,36 @@ const fs = require('fs');
 
 let mainWindow;
 
-const DATA_DIR = path.join(__dirname, 'public', 'data');
+// ✅ userData – funguje v .exe aj vo VS
+const DATA_DIR = path.join(app.getPath('userData'), 'data');
+
+function ensureDataFiles() {
+  if (!fs.existsSync(DATA_DIR)) {
+    fs.mkdirSync(DATA_DIR, { recursive: true });
+  }
+
+  const defaults = {
+    'history.json': [],
+    'wrong.json': [],
+    'favorites.json': [],
+    'questions.json': []
+  };
+
+  for (const file in defaults) {
+    const filePath = path.join(DATA_DIR, file);
+    if (!fs.existsSync(filePath)) {
+      fs.writeFileSync(
+        filePath,
+        JSON.stringify(defaults[file], null, 2),
+        'utf-8'
+      );
+    }
+  }
+}
 
 function createWindow() {
+  ensureDataFiles();
+
   mainWindow = new BrowserWindow({
     width: 1200,
     height: 800,
@@ -22,25 +49,17 @@ function createWindow() {
 ipcMain.handle('load-json', async (event, file) => {
   try {
     const filePath = path.join(DATA_DIR, file);
-    console.log('[LOAD]', filePath);
-
-    if (!fs.existsSync(filePath)) {
-      console.warn('Súbor neexistuje:', filePath);
-      return {};
-    }
-
+    if (!fs.existsSync(filePath)) return null;
     return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
   } catch (err) {
     console.error('LOAD ERROR:', err);
-    return {};
+    return null;
   }
 });
 
 ipcMain.handle('save-json', async (event, { file, data }) => {
   try {
     const filePath = path.join(DATA_DIR, file);
-    console.log('[SAVE]', filePath);
-
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
     return true;
   } catch (err) {

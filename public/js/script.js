@@ -188,26 +188,40 @@ function checkAnswer(letter, el) {
     correct: q.correct
   });
 
+  // zakáž ďalšie kliky
+  document.querySelectorAll('.answer').forEach(a => a.onclick = null);
+
   if (letter === q.correct) {
+    // ✅ SPRÁVNA ODPOVEĎ
     el.classList.add('correct');
+
+    // odstráni zo wrong
+    wrongQuestions = wrongQuestions.filter(x => x.id !== q.id);
+    window.api.saveJSON('wrong.json', wrongQuestions);
+
     score++;
-
-    // ✅ AK IDE O TEST ZO ZLÝCH OTÁZOK → ODSTRÁNIŤ
-    if (currentTest.type === 'wrong') {
-      wrongQuestions = wrongQuestions.filter(w => w.id !== q.id);
-      window.api.saveJSON('wrong.json', wrongQuestions);
-    }
-
   } else {
+    // ❌ ZLÁ ODPOVEĎ
     el.classList.add('wrong');
 
-    // ❌ PRIDAŤ DO ZLÝCH, LEN AK TAM EŠTE NIE JE
-    if (!wrongQuestions.find(w => w.id === q.id)) {
+    // 👉 označ správnu odpoveď NA ZELENO
+    document.querySelectorAll('.answer').forEach(a => {
+      if (a.innerText === q[q.correct]) {
+        a.classList.add('correct');
+      }
+    });
+
+    // pridaj do wrong
+    if (!wrongQuestions.find(x => x.id === q.id)) {
       wrongQuestions.push(q);
       window.api.saveJSON('wrong.json', wrongQuestions);
     }
+
+    // (voliteľné) textová info
+    showFeedback('Zlá odpoveď ❌');
   }
 }
+
 
 
 // =======================
